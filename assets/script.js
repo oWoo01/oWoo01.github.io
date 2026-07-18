@@ -181,11 +181,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Load blog list
   fetch('data/blog/index.json')
-    .then(res => res.json())
+    .then(res => {
+      if (!res.ok) throw new Error(`Unable to load blog index (${res.status})`);
+      return res.json();
+    })
     .then(async ids => {
       const posts = await Promise.all(ids.map(async id => {
         try {
           const resp = await fetch(`data/blog/${id}.md`);
+          if (!resp.ok) throw new Error(`Unable to load blog ${id} (${resp.status})`);
           const text = await resp.text();
           const match = text.match(/^---\n([\s\S]+?)\n---/);
           if (!match) return null;
@@ -225,7 +229,10 @@ document.addEventListener('DOMContentLoaded', () => {
         postsList.appendChild(li);
       });
     })
-    .catch(error => console.error("Error when loading blog index:", error));
+    .catch(error => {
+      console.error("Error when loading blog index:", error);
+      postsList.innerHTML = `<li class="content-load-error">Blog could not be loaded: ${error.message}</li>`;
+    });
 
   // Click to load detail
   document.body.addEventListener('click', async (event) => {
@@ -249,6 +256,7 @@ document.addEventListener('DOMContentLoaded', () => {
     try {
       // Load the reusable blog detail template.
       const response = await fetch('templates/blog-detail.html');
+      if (!response.ok) throw new Error(`Unable to load blog template (${response.status})`);
       const htmlText = await response.text();
       const tempDiv = document.createElement('div');
       tempDiv.innerHTML = htmlText;
@@ -278,6 +286,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       // Load markdown file and parse front-matter + content
       const blogMdResp = await fetch(`data/blog/${id}.md`);
+      if (!blogMdResp.ok) throw new Error(`Unable to load blog ${id} (${blogMdResp.status})`);
       const blogMdText = await blogMdResp.text();
 
       const match = blogMdText.match(/^---\n([\s\S]+?)\n---\n([\s\S]*)$/);
@@ -314,15 +323,26 @@ document.addEventListener('DOMContentLoaded', () => {
   const container = document.getElementById('project-detail-container');
 
   // 相同的时间格式化函数
-  function formatDate(dateStr) { /* 保持原有实现 */ }
+  function formatDate(dateStr) {
+    const date = new Date(dateStr);
+    return date.toLocaleDateString('en-US', {
+      year: 'numeric',
+      month: 'short',
+      day: 'numeric'
+    });
+  }
 
   // 加载项目列表
   fetch('data/projects/index.json')
-    .then(res => res.json())
+    .then(res => {
+      if (!res.ok) throw new Error(`Unable to load project index (${res.status})`);
+      return res.json();
+    })
     .then(async ids => {
       const posts = await Promise.all(ids.map(async id => {
         try {
           const resp = await fetch(`data/projects/${id}.md`);
+          if (!resp.ok) throw new Error(`Unable to load project ${id} (${resp.status})`);
           const text = await resp.text();
           const match = text.match(/^---\n([\s\S]+?)\n---/);
           if (!match) return null;
@@ -362,6 +382,10 @@ document.addEventListener('DOMContentLoaded', () => {
         `;
         postsList.appendChild(li);
       });
+    })
+    .catch(error => {
+      console.error("Error when loading project index:", error);
+      postsList.innerHTML = `<li class="content-load-error">Portfolio could not be loaded: ${error.message}</li>`;
     });
 
   // 点击处理（与Blog相同）
@@ -378,6 +402,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     try {
       const response = await fetch(`data/projects/${id}.md`);
+      if (!response.ok) throw new Error(`Unable to load project ${id} (${response.status})`);
       const text = await response.text();
       const match = text.match(/^---\n([\s\S]+?)\n---\n([\s\S]*)$/);
 
