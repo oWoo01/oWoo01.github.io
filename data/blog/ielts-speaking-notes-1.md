@@ -1,6 +1,6 @@
 ---
 id: ielts-speaking-notes-1
-title: "IELTS-Notes-01 (Speaking: Weekend Routine (Photography) & Watches & Research)"
+title: "IELTS-Notes-Speaking: Weekend Routine (Photography) & Watches & Research"
 category: IELTS
 date: 2026-07-18
 ---

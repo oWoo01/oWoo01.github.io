@@ -1,5 +1,5 @@
 ---
-title: IELTS-Notes-00 (Syntax)
+title: IELTS-Notes-Syntax
 category: IELTS
 date: 2026-07-18
 ---
