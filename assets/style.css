@@ -164,6 +164,32 @@ html { font-family: var(--ff-poppins); }
 
 body { background: var(--smoky-black); }
 
+.site-footer {
+  width: min(calc(100% - 30px), 1200px);
+  margin: 0 auto 30px;
+  padding: 20px 16px;
+  color: var(--light-gray-70);
+  font-size: var(--fs-7);
+  line-height: 1.8;
+  text-align: center;
+}
+
+.footer-follow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px 14px;
+}
+
+.site-footer a {
+  display: inline;
+  color: var(--orange-yellow-crayola);
+  font-weight: var(--fw-600);
+}
+
+.site-footer a:hover { text-decoration: underline; }
+
 
 
 
