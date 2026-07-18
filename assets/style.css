@@ -1268,8 +1268,15 @@ main {
   text-decoration: underline;
 }
 
+.markdown-content .pdf-link {
+  margin: 0.4em 0;
+}
 
-
+.markdown-content .pdf-link::before {
+  content: "PDF";
+  font-size: 0.72em;
+  font-weight: var(--fw-600);
+}
 
 /*-----------------------------------*\
   #CONTACT
@@ -2047,43 +2054,8 @@ textarea.form-input::-webkit-resizer { display: none; }
   font-size: var(--fs-7);
 }
 
-.download-button {
-  display: inline-flex;
-  align-items: center;
-  width: max-content;
-  gap: 0.5rem;
-
-  padding: 0.7rem 1.1rem;
-
-  background-color: #ffbf00;
-  color: #333 !important;
-
-  border: 2px solid #ffbf00;
-  border-radius: 6px;
-
-  font-size: 1rem;
-  font-weight: var(--fw-500);
-
-  cursor: pointer;
-
-  transition:
-    background-color 0.25s ease,
-    border-color 0.25s ease,
-    transform 0.2s ease;
-}
-
 .download-button ion-icon {
   font-size: 20px;
-}
-
-.download-button:hover {
-  background-color: #cc9a00;
-  border-color: #cc9a00;
-  transform: translateY(-1px);
-}
-
-.download-button:active {
-  transform: translateY(0);
 }
 
 .back-button {
@@ -2138,31 +2110,43 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 }
 
-.content-back-button {
+.download-button,
+.content-back-button,
+.markdown-content .pdf-link {
   display: inline-flex;
   align-items: center;
   width: max-content;
-
-  margin-bottom: 1rem;
-  padding: 0.5rem 1rem;
+  max-width: 100%;
+  gap: 0.5rem;
+  padding: 0.7rem 1.1rem;
   font-size: 1rem;
+  font-weight: var(--fw-500);
   font-family: inherit;
   background-color: #ffbf00;
-  color: #333;
-  border: none;
-  border-radius: 4px;
+  color: #333 !important;
+  border: 2px solid #ffbf00;
+  border-radius: 6px;
+  text-decoration: none;
   cursor: pointer;
   transition:
-    background-color 0.3s ease,
+    background-color 0.25s ease,
+    border-color 0.25s ease,
     transform 0.2s ease;
 }
 
-.content-back-button:hover {
+.content-back-button { margin-bottom: 1rem; }
+
+.download-button:hover,
+.content-back-button:hover,
+.markdown-content .pdf-link:hover {
   background-color: #cc9a00;
+  border-color: #cc9a00;
   transform: translateY(-1px);
 }
 
-.content-back-button:active {
+.download-button:active,
+.content-back-button:active,
+.markdown-content .pdf-link:active {
   transform: translateY(0);
 }
 

@@ -5,6 +5,8 @@ console.log("脚本加载成功");
 // element toggle function
 const elementToggleFunc = function (elem) { elem.classList.toggle("active"); }
 
+const fetchFresh = url => fetch(url, { cache: "no-store" });
+
 const renderMarkdown = source => marked.parse(
   source.replace(/==([^=\n]+)==/g, "<mark>$1</mark>")
 );
@@ -12,6 +14,22 @@ const renderMarkdown = source => marked.parse(
 const highlightCodeBlocks = container => {
   if (!window.hljs) return;
   container.querySelectorAll("pre code").forEach(block => hljs.highlightElement(block));
+};
+
+const preparePdfLinks = (container, basePath) => {
+  container.querySelectorAll("a[href]").forEach(link => {
+    const originalHref = link.getAttribute("href");
+    if (!originalHref || !originalHref.split(/[?#]/)[0].toLowerCase().endsWith(".pdf")) return;
+
+    if (!/^(?:[a-z]+:|\/|#)/i.test(originalHref) && !originalHref.startsWith(basePath)) {
+      link.href = `${basePath}${originalHref.replace(/^\.\//, "")}`;
+    }
+
+    link.classList.add("pdf-link");
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    link.title = "Open PDF in a new tab";
+  });
 };
 
 
@@ -189,7 +207,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // Load blog list
-  fetch('data/blog/index.json')
+  fetchFresh('data/blog/index.json')
     .then(res => {
       if (!res.ok) throw new Error(`Unable to load blog index (${res.status})`);
       return res.json();
@@ -197,7 +215,7 @@ document.addEventListener('DOMContentLoaded', () => {
     .then(async ids => {
       const posts = await Promise.all(ids.map(async id => {
         try {
-          const resp = await fetch(`data/blog/${id}.md`);
+          const resp = await fetchFresh(`data/blog/${id}.md`);
           if (!resp.ok) throw new Error(`Unable to load blog ${id} (${resp.status})`);
           const text = await resp.text();
           const match = text.match(/^---\n([\s\S]+?)\n---/);
@@ -264,7 +282,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     try {
       // Load the reusable blog detail template.
-      const response = await fetch('templates/blog-detail.html');
+      const response = await fetchFresh('templates/blog-detail.html');
       if (!response.ok) throw new Error(`Unable to load blog template (${response.status})`);
       const htmlText = await response.text();
       const tempDiv = document.createElement('div');
@@ -294,7 +312,7 @@ document.addEventListener('DOMContentLoaded', () => {
       });
 
       // Load markdown file and parse front-matter + content
-      const blogMdResp = await fetch(`data/blog/${id}.md`);
+      const blogMdResp = await fetchFresh(`data/blog/${id}.md`);
       if (!blogMdResp.ok) throw new Error(`Unable to load blog ${id} (${blogMdResp.status})`);
       const blogMdText = await blogMdResp.text();
 
@@ -319,6 +337,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const blogBody = container.querySelector('#blog-content');
       blogBody.innerHTML = renderMarkdown(markdownContent);
 	  blogBody.classList.add('markdown-content');
+      preparePdfLinks(blogBody, "data/blog/");
       highlightCodeBlocks(blogBody);
 
     } catch (error) {
@@ -344,7 +363,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // 加载项目列表
-  fetch('data/projects/index.json')
+  fetchFresh('data/projects/index.json')
     .then(res => {
       if (!res.ok) throw new Error(`Unable to load project index (${res.status})`);
       return res.json();
@@ -352,7 +371,7 @@ document.addEventListener('DOMContentLoaded', () => {
     .then(async ids => {
       const posts = await Promise.all(ids.map(async id => {
         try {
-          const resp = await fetch(`data/projects/${id}.md`);
+          const resp = await fetchFresh(`data/projects/${id}.md`);
           if (!resp.ok) throw new Error(`Unable to load project ${id} (${resp.status})`);
           const text = await resp.text();
           const match = text.match(/^---\n([\s\S]+?)\n---/);
@@ -412,7 +431,7 @@ document.addEventListener('DOMContentLoaded', () => {
     container.innerHTML = `<p>Loading project ${id}...</p>`;
 
     try {
-      const response = await fetch(`data/projects/${id}.md`);
+      const response = await fetchFresh(`data/projects/${id}.md`);
       if (!response.ok) throw new Error(`Unable to load project ${id} (${response.status})`);
       const text = await response.text();
       const match = text.match(/^---\n([\s\S]+?)\n---\n([\s\S]*)$/);
@@ -478,7 +497,7 @@ document.addEventListener("DOMContentLoaded", async function () {
   }
 
   try {
-    const response = await fetch("data/publications.json");
+    const response = await fetchFresh("data/publications.json");
 
     if (!response.ok) {
       throw new Error(`HTTP error: ${response.status}`);
@@ -625,7 +644,7 @@ document.addEventListener("DOMContentLoaded", () => {
   };
 
   const decryptGallery = async password => {
-    const response = await fetch("data/gallery.enc.json", { cache: "no-store" });
+    const response = await fetchFresh("data/gallery.enc.json");
     if (!response.ok) {
       if (response.status === 404) throw new Error("Encrypted Gallery has not been generated yet.");
       throw new Error(`Unable to load encrypted Gallery (${response.status}).`);
