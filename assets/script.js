@@ -572,7 +572,7 @@ function formatAuthors(authors) {
   }
 });
 
-// Password-gated gallery
+// Encrypted gallery. The plaintext source never ships with the website.
 document.addEventListener("DOMContentLoaded", () => {
   const gate = document.getElementById("gallery-gate");
   const galleryContent = document.getElementById("gallery-content");
@@ -584,16 +584,76 @@ document.addEventListener("DOMContentLoaded", () => {
 
   if (!gate || !galleryContent || !passwordForm || !postsList || !detailContainer) return;
 
-  // SHA-256 for the default password: gallery2026
-  const galleryPasswordHash = "f39c31383ad312d96660bbce50a04e40a0a933308ef330290ecf93711344976d";
-  let galleryLoaded = false;
+  let galleryFiles = null;
+  const galleryAssetUrls = new Map();
 
-  const hashText = async textValue => {
-    const bytes = new TextEncoder().encode(textValue);
-    const digest = await crypto.subtle.digest("SHA-256", bytes);
-    return Array.from(new Uint8Array(digest))
-      .map(byte => byte.toString(16).padStart(2, "0"))
-      .join("");
+  const decodeBase64 = value => {
+    const binary = atob(value);
+    return Uint8Array.from(binary, character => character.charCodeAt(0));
+  };
+
+  const readGalleryText = path => {
+    const file = galleryFiles?.[path];
+    if (!file) throw new Error(`Missing encrypted file: ${path}`);
+    return new TextDecoder().decode(decodeBase64(file.data));
+  };
+
+  const normalizeGalleryPath = path => path.replace(/^\.\//, "");
+
+  const resolveGalleryAsset = path => {
+    const normalizedPath = normalizeGalleryPath(path);
+    const file = galleryFiles?.[normalizedPath];
+    if (!file) return path;
+
+    if (!galleryAssetUrls.has(normalizedPath)) {
+      const blob = new Blob([decodeBase64(file.data)], { type: file.mime || "application/octet-stream" });
+      galleryAssetUrls.set(normalizedPath, URL.createObjectURL(blob));
+    }
+
+    return galleryAssetUrls.get(normalizedPath);
+  };
+
+  const decryptGallery = async password => {
+    const response = await fetch("data/gallery.enc.json", { cache: "no-store" });
+    if (!response.ok) {
+      if (response.status === 404) throw new Error("Encrypted Gallery has not been generated yet.");
+      throw new Error(`Unable to load encrypted Gallery (${response.status}).`);
+    }
+
+    const bundle = await response.json();
+    if (bundle.version !== 1 || bundle.kdf !== "PBKDF2-SHA256" || bundle.cipher !== "AES-256-GCM") {
+      throw new Error("Unsupported encrypted Gallery format.");
+    }
+
+    const passwordKey = await crypto.subtle.importKey(
+      "raw",
+      new TextEncoder().encode(password),
+      "PBKDF2",
+      false,
+      ["deriveKey"]
+    );
+    const decryptionKey = await crypto.subtle.deriveKey(
+      {
+        name: "PBKDF2",
+        hash: "SHA-256",
+        salt: decodeBase64(bundle.salt),
+        iterations: bundle.iterations
+      },
+      passwordKey,
+      { name: "AES-GCM", length: 256 },
+      false,
+      ["decrypt"]
+    );
+
+    const plaintext = await crypto.subtle.decrypt(
+      { name: "AES-GCM", iv: decodeBase64(bundle.iv) },
+      decryptionKey,
+      decodeBase64(bundle.ciphertext)
+    );
+
+    const payload = JSON.parse(new TextDecoder().decode(plaintext));
+    if (payload.version !== 1 || !payload.files) throw new Error("Invalid decrypted Gallery data.");
+    galleryFiles = payload.files;
   };
 
   const parseFrontMatter = textValue => {
@@ -615,74 +675,64 @@ document.addEventListener("DOMContentLoaded", () => {
     day: "numeric"
   });
 
-  const loadGallery = async () => {
-    if (galleryLoaded) return;
-    galleryLoaded = true;
-
-    try {
-      const indexResponse = await fetch("data/gallery/index.json");
-      if (!indexResponse.ok) throw new Error(`HTTP error: ${indexResponse.status}`);
-
-      const ids = await indexResponse.json();
-      const entries = await Promise.all(ids.map(async id => {
-        const response = await fetch(`data/gallery/${id}.md`);
-        if (!response.ok) throw new Error(`Unable to load gallery entry ${id}`);
-        const parsed = parseFrontMatter(await response.text());
-        return parsed ? { id, ...parsed.meta } : null;
-      }));
-
-      postsList.innerHTML = "";
-      entries
-        .filter(Boolean)
-        .sort((a, b) => new Date(b.date) - new Date(a.date))
-        .forEach(entry => {
-          const item = document.createElement("li");
-          item.className = "blog-post-item";
-          item.innerHTML = `
-            <a href="#" class="gallery-link" data-gallery-id="${entry.id}">
-              ${entry.image ? `
-                <figure class="blog-banner-box">
-                  <img src="${entry.image}" alt="${entry.title}" loading="lazy">
-                </figure>
-              ` : ""}
-              <div class="blog-content">
-                <div class="blog-meta">
-                  <p class="blog-category">${entry.category || "Gallery"}</p>
-                  <span class="dot"></span>
-                  <time datetime="${entry.date}">${formatGalleryDate(entry.date)}</time>
-                </div>
-                <h3 class="h3 blog-item-title">${entry.title}</h3>
-                <p class="blog-text">Click to view...</p>
-              </div>
-            </a>
-          `;
-          postsList.appendChild(item);
-        });
-    } catch (error) {
-      galleryLoaded = false;
-      postsList.innerHTML = `<li class="gallery-load-error">Gallery could not be loaded: ${error.message}</li>`;
-    }
-  };
-
   const unlockGallery = () => {
+    const ids = JSON.parse(readGalleryText("index.json"));
+    const entries = ids.map(id => {
+      const parsed = parseFrontMatter(readGalleryText(`${id}.md`));
+      return parsed ? { id, ...parsed.meta } : null;
+    });
+
+    postsList.innerHTML = "";
+    entries
+      .filter(Boolean)
+      .sort((a, b) => new Date(b.date) - new Date(a.date))
+      .forEach(entry => {
+        const item = document.createElement("li");
+        item.className = "blog-post-item";
+        item.innerHTML = `
+          <a href="#" class="gallery-link" data-gallery-id="${entry.id}">
+            ${entry.image ? `
+              <figure class="blog-banner-box">
+                <img src="${resolveGalleryAsset(entry.image)}" alt="${entry.title}" loading="lazy">
+              </figure>
+            ` : ""}
+            <div class="blog-content">
+              <div class="blog-meta">
+                <p class="blog-category">${entry.category || "Gallery"}</p>
+                <span class="dot"></span>
+                <time datetime="${entry.date}">${formatGalleryDate(entry.date)}</time>
+              </div>
+              <h3 class="h3 blog-item-title">${entry.title}</h3>
+              <p class="blog-text">Click to view...</p>
+            </div>
+          </a>
+        `;
+        postsList.appendChild(item);
+      });
+
     gate.hidden = true;
     galleryContent.hidden = false;
-    sessionStorage.setItem("galleryUnlocked", "true");
-    loadGallery();
   };
-
-  if (sessionStorage.getItem("galleryUnlocked") === "true") unlockGallery();
 
   passwordForm.addEventListener("submit", async event => {
     event.preventDefault();
     passwordError.textContent = "";
 
-    if (await hashText(passwordInput.value) === galleryPasswordHash) {
+    const submitButton = passwordForm.querySelector("button[type='submit']");
+    submitButton.disabled = true;
+
+    try {
+      await decryptGallery(passwordInput.value);
       passwordInput.value = "";
       unlockGallery();
-    } else {
-      passwordError.textContent = "Incorrect password.";
+    } catch (error) {
+      console.error("Gallery decryption failed:", error);
+      passwordError.textContent = error.name === "OperationError"
+        ? "Incorrect password."
+        : error.message;
       passwordInput.select();
+    } finally {
+      submitButton.disabled = false;
     }
   });
 
@@ -697,17 +747,20 @@ document.addEventListener("DOMContentLoaded", () => {
     detailContainer.innerHTML = "<p>Loading gallery entry...</p>";
 
     try {
-      const response = await fetch(`data/gallery/${id}.md`);
-      if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
-      const parsed = parseFrontMatter(await response.text());
+      const parsed = parseFrontMatter(readGalleryText(`${id}.md`));
       if (!parsed) throw new Error("Invalid gallery entry format");
+
+      const resolvedMarkdown = parsed.content.replace(
+        /(!\[[^\]]*\]\()([^)]+)(\))/g,
+        (match, prefix, path, suffix) => `${prefix}${resolveGalleryAsset(path)}${suffix}`
+      );
 
       detailContainer.innerHTML = `
         <button id="back-to-gallery" class="content-back-button">🔙 Back to Gallery</button>
         <div class="gallery-detail">
           <h1>${parsed.meta.title}</h1>
           <div class="post-meta">${parsed.meta.date} • ${parsed.meta.category || "Gallery"}</div>
-          <div class="markdown-content">${marked.parse(parsed.content)}</div>
+          <div class="markdown-content">${marked.parse(resolvedMarkdown)}</div>
         </div>
       `;
 

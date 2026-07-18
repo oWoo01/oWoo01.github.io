@@ -1,2 +1,5 @@
 .DS_Store
 **/.DS_Store
+
+# Plaintext Gallery source. Only the encrypted bundle is published.
+/private-gallery/

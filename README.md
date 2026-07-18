@@ -15,6 +15,7 @@ A responsive personal portfolio built with HTML, CSS, and JavaScript. The site i
 │   ├── blog/               # Blog index and Markdown posts
 │   ├── gallery/            # Gallery index and Markdown entries
 │   ├── projects/           # Portfolio data and downloads
+│   ├── gallery.enc.json    # Encrypted Gallery bundle (generated)
 │   └── publications.json   # Publication records
 ├── templates/              # Reusable HTML fragments
 ├── scripts/                # Local maintenance tools
@@ -31,15 +32,17 @@ python3 -m http.server 8000
 
 Then visit `http://localhost:8000`.
 
-## Gallery password helper
+## Encrypted Gallery
 
-Run the helper from the project root to replace the browser-side Gallery password hash:
+Plaintext Gallery files live in the ignored `private-gallery/` directory and must never be committed. To create or refresh the encrypted public bundle, run:
 
 ```bash
-./scripts/set-gallery-password.sh
+./scripts/encrypt-gallery.sh
 ```
 
-This is only a visual access gate. Because GitHub Pages is static hosting, Gallery files remain publicly downloadable and should not contain private information.
+The command accepts a four-digit PIN, prompts without echoing it, and writes `data/gallery.enc.json`. This PIN is intended only to prevent casual access: because the encrypted bundle is public, four digits do not provide strong protection against automated guessing. Run the command again whenever Gallery content or the PIN changes.
+
+Place private Gallery images inside `private-gallery/images/` and reference them from Markdown as `images/example.jpg`. They will be packed into the encrypted bundle and exposed only after successful decryption.
 
 ## Demo
 
