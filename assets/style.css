@@ -1147,16 +1147,17 @@ main {
   font-size: var(--fs-6);
   line-height: 1.8;
   color: #000;
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 1em;
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 1em 0 0;
   font-weight: normal;
 }
 
 /* 段落样式 */
 .markdown-content p {
   margin-bottom: 1.2em;
-  text-indent: 2em;
+  text-indent: 0;
 }
 
 /* 标题样式 */
@@ -2192,6 +2193,12 @@ textarea.form-input::-webkit-resizer { display: none; }
   margin-top: 10px;
   color: var(--light-gray);
   font-size: var(--fs-6);
+}
+
+.gallery-password-hint {
+  margin-top: 6px;
+  color: var(--orange-yellow-crayola);
+  font-size: var(--fs-7);
 }
 
 .gallery-password-form {
