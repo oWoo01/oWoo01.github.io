@@ -1,43 +1,50 @@
-# vCard - Personal portfolio
+# Jingya Zhang — Personal Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+A responsive personal portfolio built with HTML, CSS, and JavaScript. The site is designed to be published directly with GitHub Pages.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+## Project structure
+
+```text
+.
+├── index.html              # GitHub Pages entry point
+├── assets/
+│   ├── images/             # Images used by the site
+│   ├── style.css           # Site styles
+│   └── script.js           # Browser-side behavior
+├── data/
+│   ├── blog/               # Blog index and Markdown posts
+│   ├── gallery/            # Gallery index and Markdown entries
+│   ├── projects/           # Portfolio data and downloads
+│   └── publications.json   # Publication records
+├── templates/              # Reusable HTML fragments
+├── scripts/                # Local maintenance tools
+└── docs/demo/              # README screenshots
+```
+
+## Local preview
+
+The site loads JSON and Markdown with `fetch`, so preview it through a local web server instead of opening `index.html` directly.
+
+```bash
+python3 -m http.server 8000
+```
+
+Then visit `http://localhost:8000`.
+
+## Gallery password helper
+
+Run the helper from the project root to replace the browser-side Gallery password hash:
+
+```bash
+./scripts/set-gallery-password.sh
+```
+
+This is only a visual access gate. Because GitHub Pages is static hosting, Gallery files remain publicly downloadable and should not contain private information.
 
 ## Demo
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
-
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-## Installing vCard
-
-To install **vCard**, follow these steps:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+![Desktop preview](./docs/demo/desktop.png)
+![Mobile preview](./docs/demo/mobile.png)
 
 ## License
 
