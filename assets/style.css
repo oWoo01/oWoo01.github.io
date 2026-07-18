@@ -2049,11 +2049,15 @@ textarea.form-input::-webkit-resizer { display: none; }
   border-radius: inherit;
 }
 
-.publication-link .publication-citation {
+.publication-link .publication-citation,
+.publication-link .publication-citation strong,
+.publication-link .publication-citation i {
   transition: color 0.25s ease;
 }
 
-.publication-link:hover .publication-citation {
+.publication-link:hover .publication-citation,
+.publication-link:hover .publication-citation strong,
+.publication-link:hover .publication-citation i {
   color: var(--orange-yellow-crayola);
 }
 
