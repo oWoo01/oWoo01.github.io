@@ -6,3 +6,6 @@
 
 # Local helper containing the one-command Git publishing workflow.
 /scripts/push-site.sh
+
+# templates
+/data/template/
