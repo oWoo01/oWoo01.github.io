@@ -5,6 +5,15 @@ console.log("脚本加载成功");
 // element toggle function
 const elementToggleFunc = function (elem) { elem.classList.toggle("active"); }
 
+const renderMarkdown = source => marked.parse(
+  source.replace(/==([^=\n]+)==/g, "<mark>$1</mark>")
+);
+
+const highlightCodeBlocks = container => {
+  if (!window.hljs) return;
+  container.querySelectorAll("pre code").forEach(block => hljs.highlightElement(block));
+};
+
 
 
 // sidebar variables
@@ -307,8 +316,10 @@ document.addEventListener('DOMContentLoaded', () => {
       container.querySelector('#blog-title').innerText = meta.title;
       container.querySelector('#blog-meta').innerText = `${meta.category} | ${meta.date}`;
 
-      container.querySelector('#blog-content').innerHTML = marked.parse(markdownContent);
-	  container.querySelector('#blog-content').classList.add('markdown-content');
+      const blogBody = container.querySelector('#blog-content');
+      blogBody.innerHTML = renderMarkdown(markdownContent);
+	  blogBody.classList.add('markdown-content');
+      highlightCodeBlocks(blogBody);
 
     } catch (error) {
       container.innerHTML = `<p>Error: ${error.message}</p>`;
@@ -439,7 +450,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <div class="blog-post">
           <h1>${meta.title}</h1>
           <div class="post-meta">${meta.date} • ${meta.category}</div>
-          <div class="post-content markdown-content">${marked.parse(match[2])}</div>
+          <div class="post-content markdown-content">${renderMarkdown(match[2])}</div>
           ${downloadSection}
         </div>
       `;
@@ -451,7 +462,7 @@ document.addEventListener('DOMContentLoaded', () => {
         container.innerHTML = '';
       });
       // 代码高亮
-      hljs.highlightAll();
+      highlightCodeBlocks(container);
 
     } catch (error) {
       container.innerHTML = `<p>Error loading project: ${error.message}</p>`;
@@ -760,9 +771,11 @@ document.addEventListener("DOMContentLoaded", () => {
         <div class="gallery-detail">
           <h1>${parsed.meta.title}</h1>
           <div class="post-meta">${parsed.meta.date} • ${parsed.meta.category || "Gallery"}</div>
-          <div class="markdown-content">${marked.parse(resolvedMarkdown)}</div>
+          <div class="markdown-content">${renderMarkdown(resolvedMarkdown)}</div>
         </div>
       `;
+
+      highlightCodeBlocks(detailContainer);
 
       detailContainer.querySelector("#back-to-gallery").addEventListener("click", () => {
         detailContainer.style.display = "none";

@@ -3,3 +3,6 @@
 
 # Plaintext Gallery source. Only the encrypted bundle is published.
 /private-gallery/
+
+# Local helper containing the one-command Git publishing workflow.
+/scripts/push-site.sh

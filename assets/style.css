@@ -1148,7 +1148,7 @@ main {
   line-height: 1.8;
   color: #000;
   max-width: 800px;
-  margin: 1 auto;
+  margin: 0 auto;
   padding: 1em;
   font-weight: normal;
 }
@@ -1175,12 +1175,90 @@ main {
   margin-bottom: 1em;
 }
 
+.markdown-content ul { list-style: disc; }
+
+.markdown-content ol { list-style: decimal; }
+
+.markdown-content ul ul { list-style: circle; }
+
+.markdown-content ul ul ul { list-style: square; }
+
+.markdown-content li {
+  display: list-item;
+  list-style: inherit;
+  margin: 0.35em 0;
+}
+
+.markdown-content li > p {
+  margin-bottom: 0.4em;
+  text-indent: 0;
+}
+
+.markdown-content input[type="checkbox"] {
+  display: inline-block;
+  width: auto;
+  margin-right: 0.5em;
+}
+
 /* 加粗斜体等 */
 .markdown-content strong {
   font-weight: bold;
 }
 .markdown-content em {
   font-style: italic;
+}
+
+.markdown-content mark {
+  color: inherit;
+  background: hsla(45, 100%, 60%, 0.55);
+  border-radius: 3px;
+  padding: 0.08em 0.2em;
+}
+
+.markdown-content blockquote {
+  margin: 1em 0;
+  padding: 0.35em 1em;
+  border-left: 4px solid var(--orange-yellow-crayola);
+  color: var(--light-gray-70);
+}
+
+.markdown-content blockquote p {
+  margin: 0;
+  text-indent: 0;
+}
+
+.markdown-content code {
+  padding: 0.15em 0.35em;
+  border-radius: 4px;
+  background: var(--onyx);
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  font-size: 0.9em;
+}
+
+.markdown-content pre {
+  margin: 1em 0;
+  overflow-x: auto;
+  border: 1px solid var(--jet);
+  border-radius: 8px;
+}
+
+.markdown-content pre code {
+  display: block;
+  padding: 1em;
+  background: transparent;
+}
+
+.markdown-content img {
+  max-width: 100%;
+  height: auto;
+  margin: 1em auto;
+  border-radius: 8px;
+}
+
+.markdown-content hr {
+  margin: 1.5em 0;
+  border: 0;
+  border-top: 1px solid var(--jet);
 }
 
 /* 链接样式 */
