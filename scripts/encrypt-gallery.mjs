@@ -1,16 +1,11 @@
-import { createCipheriv, pbkdf2Sync, randomBytes } from "node:crypto";
+import { createCipheriv, createHash, pbkdf2Sync, randomBytes } from "node:crypto";
 import { readdir, readFile, writeFile } from "node:fs/promises";
 import { extname, join, relative, resolve, sep } from "node:path";
 
 const projectDir = resolve(import.meta.dirname, "..");
 const sourceDir = join(projectDir, "private-gallery");
 const outputFile = join(projectDir, "data", "gallery.enc.json");
-const password = process.env.GALLERY_ENCRYPTION_PASSWORD;
 const iterations = 600_000;
-
-if (!password || !/^\d{4}$/.test(password)) {
-  throw new Error("Gallery PIN must contain exactly 4 digits.");
-}
 
 const mimeTypes = {
   ".avif": "image/avif",
@@ -47,11 +42,34 @@ for (const filePath of await listFiles(sourceDir)) {
 
 if (!files["index.json"]) throw new Error("private-gallery/index.json is required.");
 
+const payloadText = JSON.stringify({ version: 1, files });
+const sourceDigest = createHash("sha256").update(payloadText).digest("hex");
+
+if (process.argv.includes("--check")) {
+  try {
+    const bundle = JSON.parse(await readFile(outputFile, "utf8"));
+    if (bundle.sourceDigest !== sourceDigest) {
+      console.error("Encrypted Gallery is out of date.");
+      process.exit(2);
+    }
+    console.log("Encrypted Gallery is current.");
+    process.exit(0);
+  } catch {
+    console.error("Encrypted Gallery bundle is missing or invalid.");
+    process.exit(2);
+  }
+}
+
+const password = process.env.GALLERY_ENCRYPTION_PASSWORD;
+if (!password || !/^\d{4}$/.test(password)) {
+  throw new Error("Gallery PIN must contain exactly 4 digits.");
+}
+
 const salt = randomBytes(16);
 const iv = randomBytes(12);
 const key = pbkdf2Sync(password, salt, iterations, 32, "sha256");
 const cipher = createCipheriv("aes-256-gcm", key, iv);
-const plaintext = Buffer.from(JSON.stringify({ version: 1, files }), "utf8");
+const plaintext = Buffer.from(payloadText, "utf8");
 const encrypted = Buffer.concat([cipher.update(plaintext), cipher.final()]);
 const ciphertext = Buffer.concat([encrypted, cipher.getAuthTag()]);
 
@@ -60,6 +78,7 @@ const bundle = {
   kdf: "PBKDF2-SHA256",
   iterations,
   cipher: "AES-256-GCM",
+  sourceDigest,
   salt: salt.toString("base64"),
   iv: iv.toString("base64"),
   ciphertext: ciphertext.toString("base64")
