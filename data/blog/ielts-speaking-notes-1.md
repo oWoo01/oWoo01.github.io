@@ -11,6 +11,7 @@ date: 2026-07-18
 	* ~~after a whole week working~~after working for a whole week
 	* ~~Without judgement from others~~ I don't feel judged by other people
 	* ~~I need take a break~~ I ==need to== take a break
+	* ~~refresh my state~~ recharge my focus / refresh my mind/ clear my head/ regain my focus
 	* ==feel burned out==
 	* ==recharge and take a real break==
 	* I can ==completely switch off==
@@ -25,6 +26,8 @@ date: 2026-07-18
 		* I always ==stroll around and let moments find me==. / I am quite ==spontaneous== when I take photos. / I do not usually make a detailed plan. I just walk around and take pictures whenever something catches my attention.
 		* 荷花 I ==came across== some lotus flowers. They looked beautiful in the warm sunset light. ==At that moment, I felt very peaceful, as if my mind had been cleared.==
 		* A photo is ==valuable/precious/meaningful/memorable== when it reminds me of people I care about. / Those pictures really moved me because they reminded me of the time we spent together.
+	* 追星
+		* ==stay updated== with their latest activities
 * **Watches**
 	* I ==used to== wear a watch when I was ==in== primary school and high school. After I got my own mobile phone, I ==stopped wearing one== because my phone was the time and an alarm.I still wear a watch during exams because ==it allows me to== check the ==remaining time== easily.
 	* Watches are still ==irreplaceable to some extent==. They're not only for time, but also reflect someone's taste or personal style. A well-designed watch can also serve as an accessory that complements an outfit. 

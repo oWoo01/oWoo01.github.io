@@ -7,6 +7,24 @@ const elementToggleFunc = function (elem) { elem.classList.toggle("active"); }
 
 const fetchFresh = url => fetch(url, { cache: "no-store" });
 
+const parseFrontMatterValue = rawValue => {
+  const value = rawValue.trim();
+
+  if (value.startsWith('"') && value.endsWith('"')) {
+    try {
+      return JSON.parse(value);
+    } catch {
+      return value.slice(1, -1);
+    }
+  }
+
+  if (value.startsWith("'") && value.endsWith("'")) {
+    return value.slice(1, -1).replace(/''/g, "'");
+  }
+
+  return value;
+};
+
 const renderMarkdown = source => marked.parse(
   source.replace(/==([^=\n]+)==/g, "<mark>$1</mark>")
 );
@@ -225,7 +243,7 @@ document.addEventListener('DOMContentLoaded', () => {
           const meta = {};
           metaText.split('\n').forEach(line => {
             const [key, ...rest] = line.split(':');
-            meta[key.trim()] = rest.join(':').trim();
+            meta[key.trim()] = parseFrontMatterValue(rest.join(':'));
           });
 
           return { id, ...meta };
@@ -328,7 +346,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const meta = {};
       metaText.split('\n').forEach(line => {
         const [key, ...rest] = line.split(':');
-        meta[key.trim()] = rest.join(':').trim();
+        meta[key.trim()] = parseFrontMatterValue(rest.join(':'));
       });
 
       container.querySelector('#blog-title').innerText = meta.title;
@@ -380,7 +398,7 @@ document.addEventListener('DOMContentLoaded', () => {
           const meta = {};
           match[1].split('\n').forEach(line => {
             const [key, ...rest] = line.split(':');
-            meta[key.trim()] = rest.join(':').trim();
+            meta[key.trim()] = parseFrontMatterValue(rest.join(':'));
           });
 
 
@@ -439,7 +457,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const meta = {};
       match[1].split('\n').forEach(line => {
         const [key, ...rest] = line.split(':');
-        meta[key.trim()] = rest.join(':').trim();
+        meta[key.trim()] = parseFrontMatterValue(rest.join(':'));
       });
 
       const downloadSection = meta.codefile
@@ -693,7 +711,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const meta = {};
     match[1].split("\n").forEach(line => {
       const [key, ...rest] = line.split(":");
-      meta[key.trim()] = rest.join(":").trim();
+      meta[key.trim()] = parseFrontMatterValue(rest.join(":"));
     });
 
     return { meta, content: match[2] };
