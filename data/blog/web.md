@@ -1,20 +1,11 @@
 ---
-id: 1
+id: web
 title: oWoo的网站开发 
 category: Web
 date: 2025-05-23
-image: ./assets/images/blog-1.jpg
 ---
 
 上周五就找好模版，打算周末把自己的个人网站设计完善好，但由于种种原因（！）没有实现，周中在忙正事，也毫无进展。  
 这周五继续维护，今天实现了About和Resume模块的重新排版与内容编辑，实现Blog模块自动读取markdown文件并生成预览、按照更新顺序排列blog、在Blog界面内部显示详细内容的功能！（弄了我半天）  
 明天争取实现代码上传+允许下载功能！  
-<pre>
-```js
-function sayHi() {
-  console.log("Hello, world!");
-}
-```
-</pre>
 
-**Full blog content here...**
