@@ -1,7 +1,7 @@
 ---
 title: IELTS-Notes-Reading & Listening
 category: IELTS
-date: "{{ date:YYYY-MM-DD }}"
+date: 2026-07-19
 ---
 * **阅读注意事项**
 	* 填词直接从原文复制

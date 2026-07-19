@@ -1,7 +1,7 @@
 ---
 title: IELTS-Notes-Writing (Part1)
 category: IELTS
-date: "{{ date:YYYY-MM-DD }}"
+date: 2026-07-19
 ---
 ## Table##
 
