@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "ielts-speaking-notes-1"
             }
+          },
+          {
+            "id": "6b2931522df4db8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/ielts-reading-listening-notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ielts-reading-listening-notes"
+            }
+          },
+          {
+            "id": "4485729462a178e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/ielts-writing-part1-notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ielts-writing-part1-notes"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,19 +212,21 @@
       "bases:新建数据库": false
     }
   },
-  "active": "243ef687d45f3e20",
+  "active": "4485729462a178e6",
   "lastOpenFiles": [
+    "blog/web-02.md",
+    "blog/web-01.md",
+    "blog/ielts-writing-part1-notes.md",
+    "blog/ielts-speaking-notes.md",
     "blog/ielts-sense-notes.md",
+    "blog/ielts-reading-listening-notes.md",
     "blog/files/syntax.pdf",
     "blog/files/语法.pdf",
-    "blog/ielts-speaking-notes-1.md",
     "blog/files/BF00012548.pdf",
     "projects/disl.md",
     "template/portfolio-template.md",
-    "blog/web-02.md",
     "template/blog-template.md",
     "blog/未命名.md",
-    "blog/web-01.md",
     "blog/files",
     "2025-05-23.md"
   ]

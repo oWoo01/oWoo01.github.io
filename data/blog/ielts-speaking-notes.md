@@ -1,11 +1,11 @@
 ---
-id: ielts-speaking-notes-1
-title: "IELTS-Notes-Speaking: Weekend Routine (Photography) & Watches & Research"
+id: ielts-speaking-notes
+title: IELTS-Notes-Speaking
 category: IELTS
 date: 2026-07-18
 ---
 
-* **What do you do on Weekend**
+* **Weekend routine / Photography**
 	* i人：as an introvert
 	* ~~at weekends~~ on weekends
 	* ~~after a whole week working~~after working for a whole week
