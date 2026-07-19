@@ -2,7 +2,7 @@
 id: ielts-speaking-notes
 title: IELTS-Notes-Speaking
 category: IELTS
-date: 2026-07-18
+date: 2026-07-17
 ---
 
 * **Weekend routine / Photography**

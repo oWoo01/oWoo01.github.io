@@ -1171,7 +1171,7 @@ main {
 .markdown-content {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   font-size: var(--fs-6);
-  line-height: 1.8;
+  line-height: 1.55;
   color: #000;
   width: 100%;
   max-width: none;
@@ -1182,7 +1182,7 @@ main {
 
 /* 段落样式 */
 .markdown-content p {
-  margin-bottom: 1.2em;
+  margin-bottom: 0.8em;
   text-indent: 0;
 }
 
@@ -1199,7 +1199,7 @@ main {
 .markdown-content ul,
 .markdown-content ol {
   padding-left: 2em;
-  margin-bottom: 1em;
+  margin-bottom: 0.75em;
 }
 
 .markdown-content ul { list-style: disc; }
@@ -1213,7 +1213,7 @@ main {
 .markdown-content li {
   display: list-item;
   list-style: inherit;
-  margin: 0.35em 0;
+  margin: 0.2em 0;
 }
 
 .markdown-content li > p {

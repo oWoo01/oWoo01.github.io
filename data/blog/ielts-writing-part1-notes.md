@@ -3,9 +3,9 @@ title: IELTS-Notes-Writing (Part1)
 category: IELTS
 date: 2026-07-19
 ---
-## Table##
+## Table
 
-* ### 框架###
+* ### 框架
 	1. The table / chart / graph  **provides information of / presents shows / illustrates changes in / compares ...** ... for ... (与题目保持一致)
 	2. **Overall**, ... (总体概括，说明趋势或差异，**==不要提及具体数据==**)
 	3. **Looking at the details / Turning to the details**, (表格中关键信息，**==结合具体数据==**)
@@ -55,7 +55,7 @@ date: 2026-07-19
 	* 均匀 became evenly distributed
 	
 (之前写过几篇...)
-### 1. Average weekly spending by families in 1968 and 2018###
+### 1. Average weekly spending by families in 1968 and 2018
 
 The graph provides information about the average weekly ~~expenditure~~ **spending** by families in 1968 and 2018. (**how families spent their weekly income**)
 

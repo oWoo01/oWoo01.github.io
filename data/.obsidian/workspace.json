@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/ielts-speaking-notes.md",
+                "file": "blog/ielts-writing-part1-notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ielts-speaking-notes"
+              "title": "ielts-writing-part1-notes"
             }
           }
         ],
@@ -214,13 +214,13 @@
   },
   "active": "4485729462a178e6",
   "lastOpenFiles": [
-    "blog/ielts-sense-notes.md",
     "blog/ielts-reading-listening-notes.md",
-    "template/blog-template.md",
     "blog/ielts-writing-part1-notes.md",
+    "blog/ielts-sense-notes.md",
+    "blog/ielts-speaking-notes.md",
+    "template/blog-template.md",
     "blog/web-02.md",
     "blog/web-01.md",
-    "blog/ielts-speaking-notes.md",
     "blog/files/syntax.pdf",
     "blog/files/语法.pdf",
     "blog/files/BF00012548.pdf",
