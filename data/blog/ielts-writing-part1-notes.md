@@ -13,7 +13,7 @@ date: 2026-07-19
 
 * ### 用句积累
 	* (para.2) The majority of ... had significantly growth ..., except ...
-	* 
+	* ... is likely to have increased ==by== 未来时间点 (is likely to表示未来可能发生的事情，have done根据by来确定)
 
 * ### 用词积累
 * 占比
@@ -75,4 +75,5 @@ In 2018, the pattern was somewhat different and the proportions of all ~~catoger
 * 词语积累(消费、支出、收入、预算)
 	* 花费、支出 spending on ... / expenditure on ... / ... expenditure
 	* 收入 weekly income / household income / family income / earnings / salary / 
-	
+
+### 2. B

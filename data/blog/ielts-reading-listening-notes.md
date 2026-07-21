@@ -8,7 +8,7 @@ date: 2026-07-19
 	* 寻找对应段：找同意替换
 * **听力注意事项**
 	* e和a的英音发音辨析
-	* six dollars and fifty cents 要写$6.5==0==而不是$6.5
+	* six dollars and fifty cents 要写$6.==50==而不是$6.5
 	* part3
 		* 捋清逻辑
 		* actually chose to do 和 只是想一想
