@@ -66,7 +66,6 @@ Looking at the details, the cost of housing, clothing and footwear jointly accou
 In 2018, the pattern was somewhat different and the proportions of all ~~catogeries~~ **categories** became more ~~uniform than before~~ **evenly distributed**. Housing ~~expenditure~~ and transport ~~expenditure~~ **spending** increased sharply, while ~~the expense~~ **spending** on food, ~~flothing~~ **clothing** and footwear, and personal goods were ~~reduced~~ **fell / declined** to ~~only a half of those in 2018~~ **around half of their 1968 levels**. Notably, the proportion of household goods expenditure remained **almost** unchanged between 1968 and 2018.
 
 * 语法
-	* lower & less: lower修饰“数值，比例，水平“, less修饰“数量”. e.g. less money, lower level
 	* least & smallest & lowest: least修饰“数量”, smallest修饰比例、尺寸、份额, lowest修饰水平、价格、百分比
 		* the smallest proportion 
 		* the lowest precentage
