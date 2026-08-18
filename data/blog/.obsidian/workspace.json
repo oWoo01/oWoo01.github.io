@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "688c6f97055c0276",
+        "id": "682817c87f7066ce",
         "type": "tabs",
         "children": [
           {
-            "id": "60d8f00434f08b19",
+            "id": "4e2c14856210763f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -37,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -179,8 +181,9 @@
       "bases:新建数据库": false
     }
   },
-  "active": "fe45da61805f1697",
+  "active": "4e2c14856210763f",
   "lastOpenFiles": [
+    "未命名.md",
     "web-02.md",
     "template/blog-template.md",
     "web-01.md",

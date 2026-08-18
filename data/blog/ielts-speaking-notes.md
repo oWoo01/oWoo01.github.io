@@ -1,8 +1,7 @@
 ---
-id: ielts-speaking-notes
 title: IELTS-Notes-Speaking
 category: IELTS
-date: 2026-07-17
+date: 2026-08-18
 ---
 
 * **Weekend routine / Photography**
@@ -37,3 +36,10 @@ date: 2026-07-17
 	* I am a PhD student at Peking University, ==majoring in== mechanics and engineering. My research ==mainly focuses on== ... . ==More specifically==, I investigate ... . ==One of the most challenging aspects== is ... . 
 	* If my results did not match my hypothesis, I would examine the problem ==from two perspectives==. First, I ==would check== the simulation or experimental setup to make sure that the boundary conditions, parameters, and procedures were correct. Second, I would ==reconsider== my hypothesis and determine whether I had overlooked any important factors. Unexpected results do not necessarily mean that the research has failed. They may ==reveal limitations== in ==original assumptions==.
 	* I believe international collaboration is important in scientific research. A single research group usually has limited knowledge, experience, equipment, and technical resources. ==By collaborating internationally==, researchers can combine different areas of expertise and ==gain access to== complementary facilities. This can help them ==develop a more comprehensive experimental, computational, and theoretical framework==. However, ==successful collaboration also requires clear communication and a fair devision of responsibilities==.
+	* Being ==upbeat== and ==having a positive outlook on life== ==reduces anxiety==.
+
+* **Hometown
+	* My hometown is ==a small county town== in Shanxi Province. Although it is much smaller and less modern than Beijing, it has ==its own quiet charm==. It has ==four distinct seasons==, and people can usually cycle across the downtown area in about thirty minutes.
+	* There are not many skyscrapers, so ==life there feels peaceful and unhurried==. One place that is particularly meaningful to me is Shanxi Agricultural University. When I was a child, my parents often took me there to spend our free time, so I have many precious memories of that place.
+	* Whenever I go back home, I usually meet my friends at my favourite restaurant and visit my grandparents and cousins. It is a good opportunity for us to ==catch up== and ==maintain close family ties==.
+	* All in all, my hometown will always ==hold a special place in my heart== because I spent my childhood and teenage years there. My family, friends, and many important memories are ==all rooted in that town==.
