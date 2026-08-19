@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "15738f9977e134df",
@@ -189,16 +190,16 @@
   "lastOpenFiles": [
     "blog/ielts-words-notes.md",
     "blog/ielts-speaking-notes.md",
-    "blog/ielts-reading-listening-notes.md",
     "blog/ielts-syntax-notes.md",
+    "blog/ielts-reading-listening-notes.md",
+    "projects/未命名.md",
+    "Pasted image 20260728101950.png",
+    "Pasted image 20260728101908.png",
     "未命名.md",
     "blog/ielts-writing-part1-notes.md",
-    "projects/未命名.md",
     "PN-EAM-revised.md",
     "anisotropic_deltaS_derivation.md",
-    "Pasted image 20260728101950.png",
     "未命名 1.md",
-    "Pasted image 20260728101908.png",
     "blog/ielts-writing-part2-notes.md",
     "projects/disl.md",
     "template/blog-template.md",
