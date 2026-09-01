@@ -1,7 +1,7 @@
 ---
 title: IELTS-Notes-Writing (Part1)
 category: IELTS
-date: 2026-07-19
+date: 2026-08-27
 ---
 ## Table
 
@@ -9,12 +9,19 @@ date: 2026-07-19
 	1. The table / chart / graph  **provides information of / presents shows / illustrates changes in / compares ...** ... for ... (与题目保持一致)
 	2. **Overall**, ... (总体概括，说明趋势或差异，**==不要提及具体数据==**)
 	3. **Looking at the details / Turning to the details**, (表格中关键信息，**==结合具体数据==**)
-	4. **In terms of / Turning to / Meanwhile / Similarly / By comparison / Compared with / Regarding** ..., the pattern was somewhat different. (表格中另一组关键信息，**==结合具体数据==**)
+	4. **In terms of / Turning to / Meanwhile / Similarly / By comparison / Compared with / Regarding** ..., the pattern was somewhat different. (表格中另一组关键信息，**==结合具体数据==**)（不需要一直用排名描述，更喜欢具体数值）
 
 * ### 用句积累
 	* (para.2) The majority of ... had significantly growth ..., except ...
 	* ... is likely to have increased ==by== 未来时间点 (is likely to表示未来可能发生的事情，have done根据by来确定)
-
+	* whereas比while更适合正式比较
+	* rose from around 2 million to 16 million, ==representing the largest absolute increase== among the four sectors.
+	* The figure ==stood at / climbed to / reached / fell to== approximately 16 million in 2020.
+	* rose from X to Y  
+	* overtook X  
+	* was approximately equal to X  
+	* remained well below X  
+	* ended the period at Y
 * ### 用词积累
 * 占比
 	* 占比多少 account for / represent / make up + 具体占比
@@ -27,6 +34,7 @@ date: 2026-07-19
 		* rank 1st / top the list , **followed by ...**
 		* the second most visited country
 		* dominant
+		* became one of the two largest ...
 	* 比较
 		* 倍数
 			* twice as high as ...
@@ -35,12 +43,14 @@ date: 2026-07-19
 			* became X times as high/large/great as before
 			*  A was X times/half that of B
 			* A was X-fold higher/lower than B
+			* fell by about two-thirds
 		* 超过 exceed / was above /  be well over twice ... / just over
 		* 低于 below 
 		* 达到 reach / approach
 * 变化
-	* 上升 rise / increase / grow / show an upward trend / climb to / jump to
+	* 上升 rise / increase / grow / show an upward trend / climb to / jump to / experience the fastest growth
 	* 下降 fall / decline / drop / decrease from ... to ...  / undergo a steady decrease 
+	* 先上升后下降 rose to X before declining to Y
 	* 最高 reach a peak of 
 	* 最低 plunge to a record low / fall to a low point of 
 	* 不变 remain almost unchanged / remain relatively stable / change very little
@@ -50,9 +60,27 @@ date: 2026-07-19
 	* 急剧 sharply / dramatically /
 	* 略 slightly / marginally
 	* 大约 approximately / about / roughly / near
-	* 
+	* 更平缓 grew more gradually / at a slower rate
+	* 进一步  further
 * 分布
 	* 均匀 became evenly distributed
+* 时间
+	* over the period from A to B
+	* between A and B
+	* decline steadily for the remainder of the period
+	* throughout the period
+	* by the end of the period
+* 图的类型
+	* 折线图 line graph: The line graph illustrates ...
+	* 柱状图 bar chart: the bar chart compares ...
+	* 饼图 pie chart: The pie charts show ...
+	* 表格 table: The table provides information about ...
+	* 流程图 process diagram: The process diagram illustrates how ...
+	* 地图 map
+	* 组合图 the charts/figures
+	* 示意图 diagram
+* 注意
+	* 数字+million(不加s, millions of才有s)
 	
 (之前写过几篇...)
 ### 1. Average weekly spending by families in 1968 and 2018
@@ -76,4 +104,12 @@ In 2018, the pattern was somewhat different and the proportions of all ~~catoger
 	* 花费、支出 spending on ... / expenditure on ... / ... expenditure
 	* 收入 weekly income / household income / family income / earnings / salary / 
 
-### 2. B
+### 2. 折线图
+
+The line graph **compares** the number of jobs in four sectors of the US economy-**manufacturing, retail, agriculture and healthcare**-**over the 60-year period** from 1960 to 2020.
+
+Employment in retail and healthcare increased substantially throughout the period. Retail jobs rose steadily from approximately 6 million in 1960 to 10 million in 1980 and 15 million in 2000, before reaching around 16 million in 2020. Healthcare **experienced even stronger growth**, with employment climbing from only 2 million to about 5 million between 1960 and 1980, and then rising sharply to 11 million in 2000 and roughly 16 million by the end of the period. (**详细点出数据**)
+
+By contrast, agriculture and manufacturing followed downward trends overall. Agricultural employment fell from about 6 million in 1960 to 3 million in 1980, remained stable until 2000, and then **declined further** to approximately 2 million. Manufacturing initially rose from 15 million to a peak of 20 million in 1980, before decreasing to 17 million in 2000 and around 13 million in 2020.
+
+Overall, retail and healthcare became the largest employers by 2020, whereas agriculture had ==by far== the fewest jobs. Manufacturing was the only sector to rise initially before undergoing a sustained decline.

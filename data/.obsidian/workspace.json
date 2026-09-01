@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ad9ee6e14d931c1c",
+        "id": "f3a5d73ec39f464b",
         "type": "tabs",
         "children": [
           {
-            "id": "b8a6f4cecb873297",
+            "id": "457b9d80cb86e0e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/ielts-speaking-notes.md",
+                "file": "blog/ielts-reading-listening-notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ielts-speaking-notes"
+              "title": "ielts-reading-listening-notes"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "15738f9977e134df",
@@ -186,21 +185,23 @@
       "bases:新建数据库": false
     }
   },
-  "active": "b8a6f4cecb873297",
+  "active": "457b9d80cb86e0e6",
   "lastOpenFiles": [
-    "blog/ielts-words-notes.md",
     "blog/ielts-speaking-notes.md",
     "blog/ielts-syntax-notes.md",
+    "blog/ielts-words-notes.md",
+    "blog/ielts-writing-part1-notes.md",
+    "blog/ielts-writing-part2-notes.md",
     "blog/ielts-reading-listening-notes.md",
+    "blog/未命名.canvas",
+    "blog/2026-09-01.md",
+    "未命名.md",
     "projects/未命名.md",
     "Pasted image 20260728101950.png",
     "Pasted image 20260728101908.png",
-    "未命名.md",
-    "blog/ielts-writing-part1-notes.md",
     "PN-EAM-revised.md",
     "anisotropic_deltaS_derivation.md",
     "未命名 1.md",
-    "blog/ielts-writing-part2-notes.md",
     "projects/disl.md",
     "template/blog-template.md",
     "blog/web-02.md",

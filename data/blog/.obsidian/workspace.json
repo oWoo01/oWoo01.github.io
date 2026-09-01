@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "682817c87f7066ce",
+        "id": "f3e3fe71cea0ec34",
         "type": "tabs",
         "children": [
           {
-            "id": "4e2c14856210763f",
+            "id": "0283b4f5963407e7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -181,8 +181,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "4e2c14856210763f",
+  "active": "0283b4f5963407e7",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "2026-09-01.md",
+    "ielts-words-notes.md",
     "未命名.md",
     "web-02.md",
     "template/blog-template.md",

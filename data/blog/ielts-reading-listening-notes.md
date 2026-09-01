@@ -1,7 +1,7 @@
 ---
 title: IELTS-Notes-Reading & Listening
 category: IELTS
-date: 2026-07-19
+date: 2026-08-26
 ---
 * **阅读注意事项**
 	* 填词直接从原文复制
@@ -9,6 +9,8 @@ date: 2026-07-19
 * **听力注意事项**
 	* e和a的英音发音辨析
 	* six dollars and fifty cents 要写$6.==50==而不是$6.5
+	* 1983, nineteen eighty three, nineteen-eighty (==neity==)
+	* 听到啥写啥...别自我发挥
 	* part3
 		* 捋清逻辑
 		* actually chose to do 和 只是想一想

@@ -1,8 +1,9 @@
 ---
 title: IELTS-Notes-Writing (Part2)
 category: IELTS
-date: 2026-07-21
+date: 2026-09-01
 ---
+⚠️语法语法语法，名词复数！动词第三人称单数！
 ## Advantages & Disadvantages & Agree & Disagree
 
 * ### 框架
@@ -18,15 +19,81 @@ date: 2026-07-21
 	* ... allows ... to do ...
 	* (para. 1) there is a growing movement advocating for ... 
 	* (para. 5) while ... contribute to ... , the drawback, ..., ..., and ..., justify a transition toward ....
+	* (para. 1) It is often argued that ... . I largely agree with this view because ... . However, I also believe that ... .
+	* (para. 2/3/4) However, it would be a mistake to ... (不妥)
+	* (para. 5) ... should also allow room for ... .
+	* (para. 2/3/4) These examples show that ... .
+	* (para. 4) Nevertheless, 尽管如此
 
 * ### 用词积累
 	* 导致 lead to / result in / cause / 
 	* 重大的/明显的 substantial / significant / evident
 	* 就...而言 when it comes to / in terms of  / regarding ...
-	* 起重要作用 play a pivotal role / it is necessary to ... 
+	* 起重要作用 play a pivotal/crucial role / it is necessary to ... 
 	* 缺点 disadvantage / drawback
 	* 促进 facilitate
 	* 未来可能 be likely / predicted / projected / estimated / certain to
+	* 能够 be able to ...
+	* ...的基石 cornerstone of
+	* 必要性 necessity
+* 主题积累
+	* 教育
+		* 假期 vacation / holiday / break / recess / 
+		* 身心健康 physical and psychological well-being
+		* 社交联系 social bonding
+		* 代际关系 generational relationship
+		* 身心俱疲 experience burnout
+		* 打断学习连贯性 disrupt learning continuity
+		* 双职工家庭 dual-income households
+		* 教育公平 educational equity
+		* 社会不平等 social inequality
+		* 拉开差距 exacerbate the gap
+		* equity & equality
+			* equality，平等，是给每个人相同的东西(资源、机会)
+			* equity，公平，根据每个人的需要提供支持
+	* 科技
+		* 科技进步 scientific progress/advancement/development
+		* 科技创新 technological innovation
+		* 人类认知 human knowledge
+		* ...的基础 the foundation of ...
+		* 兴趣驱动的研究 curiosity-driven research
+		* 基础研究 basic research
+		* 太空探索 space research
+		* 改善人们生活 improve people's lives / living standards / quality of life
+		* 实用价值 practical value
+		* solve real-world problems
+		* 重大突破 lead to major breakthroughs
+		* 产生即时效应 produce immediate benefits
+		* 有长期效益 have long-term benefits
+	* 社会
+		* 出生率 birth rate
+		* 说明年龄 aged 65 or over / older
+		* 正式退休 official retirement
+		* 交个人所得税 pay individual income tax
+		* 养老 support old people
+		* 移民 migration
+	* 政府
+	* 媒体
+	* 国际
+	* 犯罪
+	* 文化
+	* 旅游
+	* 环境
+		* clean energy
+	* 健康
+		* 感染 infection, protect people from infection
+		* 疫苗 vaccine(s)
+		* 抗生素 antibiotic(s)
+		* 医疗设备升级 advances in medical equipment
+		* 可靠准确的诊断 reliable and accurate diagnosis
+	* 工作
+		* 扩大产能 expand production capacity
+		* 采用技术 adopt technology
+		* 自动化 the transition towards automation
+		* 求职者 job seeker
+		* 在一些部门 in some sectors
+		* 就业岗位 employment opportunities
+		* 岗位替代 job displacement
 
 ### 1. Machines
 
@@ -51,40 +118,26 @@ In conclusion, although machines may ~~result in~~**lead to** more unemployment,
 	* contender通常指比赛、竞选中的有力竞争者，不适合泛指求职者
 	* overwhelming 数量极大的、令人难以承受的、压倒性的
 	* conspicuous 显眼的，引人注目的，不是明显的
-* 积累
-	* 扩大产能 expand production capacity
-	* 采用技术 adopt technology
-	* 自动化 the transition towards automation
-	* 求职者 job seeker
-	* 在一些部门 in some sectors
-	* 就业岗位 employment opportunities
-	* 岗位替代 job displacement
 
 ### 2. Long summer vacation
 In numerous education systems worldwide, pupils enjoy prolonged summer breaks spanning eight weeks or more. While such extensive vacations **confer significant benefits**, **there is a growing movement advocating for** shorter holidays. This essay will explore the merits of long summer recesses, **as well as** the arguments supporting a shorter summer holiday.
 
-To begin with, lengthy summer holidays **play a pivotal role** in students' physical and psychological well-being. After two demanding academic terms, youngsters often experience burnout, and an extended break allows them to recuperate mentally. For example, by engaging in unstructured play, traveling with family, or pursuing hobbies such as painting and swimming, children return to school in a refreshed state, ready to tackle new challenges. Furthermore, long vacations **facilitate** social bonding: family can plan trips or grandparents can take care of children, strengthening intergenerational relationships that are otherwise slided during term time.
+To begin with, lengthy summer holidays **play a pivotal role** in students' physical and psychological well-being. After two demanding academic terms, youngsters often experience burnout, and an extended break allows them to recuperate mentally. For example, by ==engaging in unstructured play, traveling with family, or pursuing hobbies such as painting and swimming==, children return to school **in a refreshed state**, ready to **tackle new challenges**. Furthermore, long vacations **facilitate** social bonding: family can plan trips or grandparents can take care of children, strengthening intergenerational relationships that are otherwise slided during term time.
 
 **Despite these advantages, there are compelling reasons to** advocate shorter holidays of approximately four weeks. **First of all**, protracted gaps in formal instruction tend to disrupt learning continuity. Studies indicate that students forget nearly a month's worth of math and language skills over an eight-week recess, necessitating extensive revision at the start of the next term and reducing effective teaching time. **Additionally**, in dual-income households, securing adequate childcare for two month can be both challenging and expensive, placing undue strain on working parents. Shortening the break would alleviate this burden and ensure that children are supervised in structured environments for a greater portion of the year. **Finally**, reducing the duration of summer holidays can promote educational equity. Privileged students often benefit from enriched summer programs or travel, whereas disadvantaged peers may lack access to stimulating activities, exacerbating the achievement gap. A more compact vacation schedule would compel schools to integrate remedial and enrichment programs into term time, fostering a more level playing field.
 
 **In conclusion**, **while long summer holidays contribute to** students' well-being and personal development, **the drawback**, namely loss of academic momentum, childcare difficulties, and social inequality, **justify a transition toward** shorter breaks.
 
-* 积累
-	* 假期 vacation / holiday / break / recess / 
-	* 身心健康 physical and psychological well-being
-	* 社交联系 social bonding
-	* 代际关系 generational relationship
-	* 身心俱疲 experience burnout
-	* 打断学习连贯性 disrupt learning continuity
-	* 双职工家庭 dual-income households
-	* 教育公平 educational equity
-	* 社会不平等 social inequality
-	* 拉开差距 exacerbate the gap
-	* equity & equality
-		* equality，平等，是给每个人相同的东西(资源、机会)
-		* equity，公平，根据每个人的需要提供支持
 ### 3. Reduce flight
 TBD
+### 4.The main aim of science
+**It is often argued that** the most important purpose of science should be to improve people's lives. I **largely agree with this view because** scientific progress has played a crucial role in improving ==health, safety and living standards==. **However, I also believe that** science should not be limited only to research with immediate practical benefits.
+
+**One major reason why** science should focus on improving people's lives is that **it can directly solve serious social and medical problems**. **For example**, advances in ==medicine== have led to the development of vaccines, antibiotics and more effective treatments for many diseases. **As a result**, people are now able to live longer and healthier than in the past. Scientific research has also contributed to the development of cleaner energy, safer transport and more efficient communication technologies, **all of which have make** everyday life more convenient and secure. 
+
+However, **it would be a mistake to** expect all scientific research to **produce immediate benefits**. Some of the most important discoveries in history were originally make simply to increase human knowledge. **For instance**, early research into quantum physics had little obvious practical value at the time, but it later became the foundation of modern electronics and computer technology. Similarly, space research **has contributed to** the development of ==satellites, GPS systems and weather forecasting==. These examples show that basic research can **eventually** improve people's lives in ways that scientists may not able to predict.
+
+**In conclusion, I agree that** improving people's lives **should be** one of the main aims of science because this gives scientific progress a clear social purpose. Nevertheless, science should also **allow room for** curiosity-driven research, **as** such research may lead to major practical benefits in the future.
 
 
 ## Problems & Solutions
@@ -110,10 +163,4 @@ So, **what can be done now to prevent these problems**? Firstly, I believe that 
 
 * 语法
 	* fewer people will be working 描述将来一段时间持续的事件
-* 积累
-	* 出生率 birth rate
-	* 说明年龄 aged 65 or over / older
-	* 正式退休 official retirement
-	* 交个人所得税 pay individual income tax
-	* 养老 support old people
-	* 移民 migration
+

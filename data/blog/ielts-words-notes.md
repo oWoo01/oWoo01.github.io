@@ -1,7 +1,7 @@
 ---
 title: IELTS-Notes-Words
 category: IELTS
-date: 2026-08-19
+date: 2026-09-01
 ---
 
 ## 近义词辨析
@@ -69,3 +69,148 @@ date: 2026-08-19
 	* adequate: ==合格的==，达到最低要求或某种水平(but not excellent)， adequate healthcare
 	* I have sufficient money to buy car，强调钱够
 	* I have adequate money to live comfortably, 强调达到生活标准
+* contaminate & pollute
+	* contaminate: 使某物被有害物质混入，强调==不纯==
+	* pollute: 污染==环境==
+* ethnic & racial
+	* ethnic: 民族/文化（语言、文化、历史）, ethnic diversity, ethnic minority
+	* racial: 种族（外貌、祖先、生物分类）, racial discrimination
+* deposit & saving
+	* deposit: 押金义更常见(house deposit, security deposit)，存款义表示在银行的存款，fixed deposit定期存款
+	* saving: 表示存款时常用复数，==自己的个人积蓄，不一定在银行里==
+* chance & opportunity
+	* chance: ==偶然==得到的机会，更日常更随意
+	* opportunity: ==有利于做事==的机会，强调==有价值==，a favourable situation
+* collaborate & cooperate 深度不同
+	* collaborate: 共同==项目式合作==，collaborate on a research project
+	* cooperate: 相互==配合==让事情顺利进行, cooperate with the investigation
+* protocol & treaty
+	* protocol: ==补充、细化==已有条约或规定程序
+	* treaty: 正式条约，涉及==重大事项==
+* constrain & limit & restrict & confine & restrain
+	* constrain: 受条件==约束==，导致能做的事情变少, constrain development
+	* limit: 设置==上限==, limit the number of visitors
+	* restrict: 限制==自由、使用权、进入权==, restrict freedom or access
+	* confine: 限定在某个边界内, confine the discussion to environmental issues
+	* restrain: ==压制、克制==某种动作、情绪或趋势, restrain anger
+* mandatory & compulsory 很多情况可以互换
+	* mandatory: 由法律、制度明确要求必须做
+	* compulsory: 教育、服役、课程等强制参加, compulsory education义务教育
+* obligation & duty & responsibility
+	* obligation: 因法律、规则、承诺、道德而==必须做==
+	* duty: 因身份、职位、角色而==应该做==
+	* responsibility: 最泛的责任
+* oversee & supervise
+	* oversee: 从==更高层级==负责整体把关，确保事情按计划进行
+	* supervise: 监督
+* silent & mute
+	* silent: 没有声音/不说话，强调==状态==， remain silent
+	* mute: 不能说话，或把声音关闭, mute the microphone
+* cheat & deceive & trick & fool
+	* cheat: 作弊/欺骗以==获得不正当利益==
+	* deceive: 最正式，让对方==形成错误认知==, deceive sb into believing that ...
+	* trick: 耍手段让别人上当==做了某些事==, trick sb into doing sth
+	* fool: 比较口语，愚弄
+* rob & raid & steal
+	* rob: 目的是==偷走财物==，宾语通常是==人或地点==, rob sb of sth
+	* raid: 重点是==突袭==，宾语通常是==地点/目标==，军队、警察或犯罪团伙
+	* steal: 宾语为==东西==，偷走某物
+* burst & blast & explode
+	* burst: 因==内部压力==而突然爆开
+	* blast:爆炸产生的猛烈==冲击==
+	* explode: 爆炸动作本身
+	* A balloon bursts. A bomb explodes. The explosion creates a blast.
+* pitfall & trap
+	* pitfall: ==容易忽视==的隐患、坑、潜在问题
+	* trap: 真正的陷阱，==故意设下==的圈套
+* intrude & trespass
+	* intrude: ==不受欢迎地==介入, intrude on/upon someone's privacy
+	* trespass: ==擅自==进入，更偏法律和空间概念
+* verify & certify
+	* verify: ==核实==某件事是不是==真的==, identity verification
+	* certify:正式==证明==某件事==符合标准==，给予官方认可, quality certification
+* halt & cease
+	* half: ==中止==正在进行的过程, halt production
+	* cease: 更书面，==终止==，常见于正式通知、法律、新闻, cease to exit不复存在
+* contend & claim
+	* contend: 在==争辩论证==中坚持主张某个观点
+	* claim: 提出一个说法（未必是真的）
+* tactic & strategy
+	* tactic: ==具体==战术
+	* strategy: ==总体==战略
+* forbid & prohibit
+	* forbid: ==人对人==的禁止
+	* prohibit: ==规则、法律、制度==正式禁止
+* tomb & grave
+	* tomb: 陵墓，更有==建筑感==
+	* grave: 埋尸体的坑
+* disturb & interrupt & disrupt
+	* disturb: 打扰
+	* interrupt: 中断
+	* disrupt: 扰乱，让整个过程无法进行，disrupt traffic
+* proceed & continue
+	* proceed: move forward
+	* continue: keep doing
+* adorn & embellish
+	* adorn: 用东西装饰、点缀
+	* embellish: 加上细节使更华丽、更丰富，==过度修饰==，添油加醋
+* barrel & bucket & pail
+	* barrel: ==大的==工业用桶
+	* bucket: 和pail差不多，bucket更常见
+	* pail: 有提手的小桶
+* purse & wallet
+	* purse: 装硬币的零钱包，美式里main是女式手提包
+	* wallet: 卡、纸币钱包
+* attorney & lawyer & solicitor
+	* attorney: 美式英语
+	* lawyer: 泛称
+	* solicitor: 英式英语
+* counsellor & consultant
+	* counsellor: 提供==心理、情绪、教育==等方面支持
+	* consultant: 提供==专业知识==，偏商业、技术、管理和医疗
+* pledge & oath & vow
+	* pledge: 郑重承诺，政策、公益、金钱、==公开承诺==
+	* oath: ==正式宣誓==
+	* vow: 发誓，==个人决心==
+* respond & reply
+	* respond: 对某个信息、行为、情况作出==回应/反应==
+	* reply: ==回答==某句话、消息、邮件
+* glimpse & glance
+	* glimpse: 不经意瞥到一点/一小部分, a glimpse into初步了解
+	* glance: ==主动==快速看一眼
+* grab & snatch & grasp & grip
+	* grab: 口语，==快速==抓住，顺手
+	* snatch: ==抢==，夺
+	* grasp: 抓==稳==，握住；理解，掌握 grasp your meaning
+	* grip: 紧紧握住==不放==
+* whirl & rotate
+	* whirl: 快速打转，强调==速度感和动态感==
+	* rotate: 绕轴旋转
+* interfere & intervene
+	* interfere: 插手、干涉（多管闲事版）
+	* intervene: 介入、干预，为了改变局面或解决问题
+* yearn & aspire
+	* yearn: 强烈渴望某种人、事物、状态，==感情色彩很强==， yearn for sth, yearn to do sth
+	* aspire: 立志达到某个目标或成就，==目标导向强==, aspire to sth, aspire to do sth
+* neglect & ignore
+	* neglect: 没有做到应做的（不一定故意）
+	* ignore: 故意忽视
+
+### 近形词辨析###
+* induce & deduce & reduce
+	* induce: 引诱，劝说；引起，导致
+	* deduce: 推断，推理，演绎
+	* reduce: 减少，缩小，降低
+* speculate & stipulate
+	* speculate: 推测，猜想
+	* stipulate: 规定，约定
+* doom & loom
+	* doom: n. 厄运，死亡 
+	* loom: v. 隐约出现；逼近；n. 织布机
+
+
+#### Countable noun
+* 
+#### Uncountable noun
+* research, news
+* 
