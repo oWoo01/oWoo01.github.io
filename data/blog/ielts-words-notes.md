@@ -181,22 +181,30 @@ date: 2026-09-01
 * grab & snatch & grasp & grip
 	* grab: 口语，==快速==抓住，顺手
 	* snatch: ==抢==，夺
-	* grasp: 抓==稳==，握住；理解，掌握 grasp your meaning
-	* grip: 紧紧握住==不放==
+	* grasp: 抓==稳==，握住 get in hand；理解，掌握 grasp your meaning
+	* grip: 紧紧握住==不放==, hold firmly
 * whirl & rotate
 	* whirl: 快速打转，强调==速度感和动态感==
 	* rotate: 绕轴旋转
 * interfere & intervene
 	* interfere: 插手、干涉（多管闲事版）
 	* intervene: 介入、干预，为了改变局面或解决问题
-* yearn & aspire
-	* yearn: 强烈渴望某种人、事物、状态，==感情色彩很强==， yearn for sth, yearn to do sth
-	* aspire: 立志达到某个目标或成就，==目标导向强==, aspire to sth, aspire to do sth
+* yearn & aspire & desire
+	* yearn: v. 强烈渴望某种人、事物、状态，==感情色彩很强==， yearn for sth, yearn to do sth
+	* aspire: v. 立志达到某个目标或成就，==目标导向强==, aspire to sth, aspire to do sth
+	* desire: v./n. 高级正式的want，使用范围最广，感情色彩中性 a desire for freedom, a desire to succeed
 * neglect & ignore
 	* neglect: 没有做到应做的（不一定故意）
 	* ignore: 故意忽视
+* amaze & marvel & astonish
+	* amaze: 让人惊讶，==带有赞叹意味==
+	* marvel: ==佩服==、赞叹，marvel at sth ;n. 奇迹，a medical marvel
+	* astonish: 让人==震惊==，程度更大
+* induce & tempt
+	* induce: 促使、导致某人做某事，偏正式，==强调客观因果关系==
+	* tempt: 诱惑某人做某事，==主观想做+负面意味==, be tempted to do sth
 
-### 近形词辨析###
+### 近形词辨析
 * induce & deduce & reduce
 	* induce: 引诱，劝说；引起，导致
 	* deduce: 推断，推理，演绎
@@ -207,10 +215,26 @@ date: 2026-09-01
 * doom & loom
 	* doom: n. 厄运，死亡 
 	* loom: v. 隐约出现；逼近；n. 织布机
+* apology & anatomy & analogy
+	* apology: n. 道歉，认错
+	* anatomy: n. 解剖学；人体；结构
+	* analogy: n. 类比，相似之处
+* vigorous & rigorous
+	* vigorous: 精力旺盛的，积极的
+	* rigorous: 严谨的
+* knit & knot
+	* knit: v. 编织
+	* knot: n. 结，节疤
+* snatch & scratch
+	* snatch: 抢，夺
+	* scratch: 抓，挠
 
 
-#### Countable noun
-* 
-#### Uncountable noun
-* research, news
+### Countable noun
+* 可数复数 people(person的复数，one person, two people, 表示民族时有peoples)
+* 单复数同形 means, series, species
+### Uncountable noun
+* research(study可数), advice, information, knowledge, evidence, progress (make progress), work (job可数，“作品”“工程”义时可数), homework, equipment (pieces of equipment), furniture (pieces of furniture), luggage/baggage(pieces of ...), traffic, weather(bad weather), accommodation, transport, experience(“经历”义时可数), behavior, luck(good luck), fun(have fun), damage, assistance(provide assistance), feedback(give feedback), software(install software), access(have access to), 
+* 不可数单数(动词+s) news, 
+* 不可数集合名词(动词不+s) data
 * 

@@ -1,5 +1,5 @@
 ---
-title: IELTS-Notes-Writing (Part2)
+title: IELTS-Notes-Writing (Task2)
 category: IELTS
 date: 2026-09-01
 ---

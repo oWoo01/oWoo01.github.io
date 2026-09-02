@@ -1,9 +1,10 @@
 ---
-title: IELTS-Notes-Writing (Part1)
+title: IELTS-Notes-Writing (Task1)
 category: IELTS
-date: 2026-08-27
+date: 2026-09-02
 ---
-## Table
+技巧：
+* 利用题目里给的单词，比如consume我就不会自己写
 
 * ### 框架
 	1. The table / chart / graph  **provides information of / presents shows / illustrates changes in / compares ...** ... for ... (与题目保持一致)
@@ -22,18 +23,21 @@ date: 2026-08-27
 	* was approximately equal to X  
 	* remained well below X  
 	* ended the period at Y
+	* A and B ==follow a broadly similar pattern==, with .. accounting for the largest share of both ... . ==By contrast==, ... is ... dominantly .. . / A markedly different pattern can be seen for ... .
+	* By comparison, ...
+	* The percentages of A and B are both z, while ==the corresponding figures for== ... are x and y. / ... ==is equally distributed between== A and B, at z each, whereas the respective figures for ... are x and y.
 * ### 用词积累
 * 占比
 	* 占比多少 account for / represent / make up + 具体占比
 	* 占比相近 be all around ...
 	* 并列 jointly account for the (second-)largest(smallest) share / **were tied for** second place / 
-	* 比例 proportion / share /  + stand at 
+	* 比例 (high/low) proportion(s) / share /  + stand at 
 	* 最... 
 		* account for the **smallest** share
 		* make up the largest proportion of ...
 		* rank 1st / top the list , **followed by ...**
 		* the second most visited country
-		* dominant
+		* dominant / dominantly
 		* became one of the two largest ...
 	* 比较
 		* 倍数
@@ -104,7 +108,7 @@ In 2018, the pattern was somewhat different and the proportions of all ~~catoger
 	* 花费、支出 spending on ... / expenditure on ... / ... expenditure
 	* 收入 weekly income / household income / family income / earnings / salary / 
 
-### 2. 折线图
+### 2. 折线图: 社会
 
 The line graph **compares** the number of jobs in four sectors of the US economy-**manufacturing, retail, agriculture and healthcare**-**over the 60-year period** from 1960 to 2020.
 
@@ -113,3 +117,16 @@ Employment in retail and healthcare increased substantially throughout the perio
 By contrast, agriculture and manufacturing followed downward trends overall. Agricultural employment fell from about 6 million in 1960 to 3 million in 1980, remained stable until 2000, and then **declined further** to approximately 2 million. Manufacturing initially rose from 15 million to a peak of 20 million in 1980, before decreasing to 17 million in 2000 and around 13 million in 2020.
 
 Overall, retail and healthcare became the largest employers by 2020, whereas agriculture had ==by far== the fewest jobs. Manufacturing was the only sector to rise initially before undergoing a sustained decline.
+
+### 3. 饼图: 健康
+The pie charts show average percentages of three types of nutrients~~,  ~~—sodium, saturated fat~~s~~ and added sugar~~s~~—**contained** in four typical meals ~~breakfast, lunch, dinner and snacks~~ consumed in the USA.
+
+Overall, the distribution of sodium and saturated fats in these four meals is similar and both ~~of the two ~~nutrients are mainly taken in from dinner **(the largest shares of both nutrients are consumed at dinner)**. ~~Unlike them~~**By contrast**, the intake of added sugar from snacks accounts for the largest ~~amount~~**proportion**.
+
+In terms of sodium and saturated fat, dinner contributes **to** the highest proportions of them, at 43% and 37%, respectively.  Then lunch ~~ranks 2nd~~**represents the second-largest shares,** at 29% and 26%, respectively. The percentages of sodium intake from breakfast and snacks are both 14%, while ~~that~~**the corresponding figures for** ~~of~~ saturated fat are 16% ~~from breakfast~~ and 21% ~~from snacks~~.
+(Lunch follows, at ...)
+
+As for added sugar, snacks account for the largest share ~~which stands ~~at 42%, followed by dinner at 23%. The intake from lunch represents 19% and breakfast provides 16% added sugar~~, which seems to be a balanced source of all three nutrients~~. **(不要加主观解释, 可以写breakfast accounts for relatively small and similar proportions of all three nutrients, ranging from 14% to 16%)**
+
+**pro version:**
+Overall, sodium and saturated fat show broadly distributions across the four eating occasions, with the highest proportions consumed at dinner. Added sugar, however, is concentrated much more heavily in snacks, while breakfast consistently accounts for relatively low proportions of all three nutrients.
