@@ -1,10 +1,18 @@
 ---
 title: IELTS-Notes-Writing (Task1)
 category: IELTS
-date: 2026-09-02
+date: 2026-09-05
 ---
 技巧：
 * 利用题目里给的单词，比如consume我就不会自己写
+* 名词化 --> 动词化
+注意: 
+* 数字+million(不加s, millions of才有s)
+* 区分比例和数量的用词
+* 描述类别不用加the
+* ‼️要做到: 保证没有语法错误，尽量没有搭配错误
+* ‼️提升速度
+* ‼️闭卷
 
 * ### 框架
 	1. The table / chart / graph  **provides information of / presents shows / illustrates changes in / compares ...** ... for ... (与题目保持一致)
@@ -39,6 +47,7 @@ date: 2026-09-02
 		* the second most visited country
 		* dominant / dominantly
 		* became one of the two largest ...
+		* constituted the largest category 
 	* 比较
 		* 倍数
 			* twice as high as ...
@@ -52,12 +61,14 @@ date: 2026-09-02
 		* 低于 below 
 		* 达到 reach / approach
 * 变化
-	* 上升 rise / increase / grow / show an upward trend / climb to / jump to / experience the fastest growth
+	* 上升 rise / increase / grow / show an upward trend / climb to / jump to / experience the fastest growth / edge up(小幅上升)
 	* 下降 fall / decline / drop / decrease from ... to ...  / undergo a steady decrease 
 	* 先上升后下降 rose to X before declining to Y
 	* 最高 reach a peak of 
 	* 最低 plunge to a record low / fall to a low point of 
 	* 不变 remain almost unchanged / remain relatively stable / change very little
+	* 下降多少 fall by around 1-2 million
+	* 趋势 show/follow a (opposite) trend (to)
 * 副词 
 	* 明显 considerably / significantly / much / substantially
 	* 持续/逐渐 steadily / gradually / 
@@ -83,8 +94,11 @@ date: 2026-09-02
 	* 地图 map
 	* 组合图 the charts/figures
 	* 示意图 diagram
-* 注意
-	* 数字+million(不加s, millions of才有s)
+* 高级替换
+	* group --> category
+	* during the period --> throughout the period
+	* increased slightly --> edged up
+	* 
 	
 (之前写过几篇...)
 ### 1. Average weekly spending by families in 1968 and 2018
@@ -126,7 +140,19 @@ Overall, the distribution of sodium and saturated fats in these four meals is si
 In terms of sodium and saturated fat, dinner contributes **to** the highest proportions of them, at 43% and 37%, respectively.  Then lunch ~~ranks 2nd~~**represents the second-largest shares,** at 29% and 26%, respectively. The percentages of sodium intake from breakfast and snacks are both 14%, while ~~that~~**the corresponding figures for** ~~of~~ saturated fat are 16% ~~from breakfast~~ and 21% ~~from snacks~~.
 (Lunch follows, at ...)
 
-As for added sugar, snacks account for the largest share ~~which stands ~~at 42%, followed by dinner at 23%. The intake from lunch represents 19% and breakfast provides 16% added sugar~~, which seems to be a balanced source of all three nutrients~~. **(不要加主观解释, 可以写breakfast accounts for relatively small and similar proportions of all three nutrients, ranging from 14% to 16%)**
+As for added sugar, snacks account for the largest share ~~which stands~~ at 42%, followed by dinner at 23%. The intake from lunch represents 19% and breakfast provides 16% added sugar~~, which seems to be a balanced source of all three nutrients~~. **(不要加主观解释, 可以写breakfast accounts for relatively small and similar proportions of all three nutrients, ranging from 14% to 16%)**
 
 **pro version:**
 Overall, sodium and saturated fat show broadly distributions across the four eating occasions, with the highest proportions consumed at dinner. Added sugar, however, is concentrated much more heavily in snacks, while breakfast consistently accounts for relatively low proportions of all three nutrients.
+
+### 4. 柱状图: 社会
+The chart provides the number of US households by their annual income in 2007, 2011 and 2015.
+
+Overall, the number of households ~~whose income is in the medium range of~~**earning between** $50,000 and $99,999 remained ~~steadily the least two~~**the two smallest categories** during the period, whereas the low-income households and the high-income households experienced ~~relatively rising and falling.~~
+**pro version:** the two lower-income groups rose between 2007 and 2011 before declining slightly, while the highest-income group followed the opposite pattern.
+
+Looking at the details, the number of households earning more than $100,000 annually ~~accounted for the largest proportion~~ **formed the largest group in 2007, at around 29 million** ~~with 29 million in 2007~~, before declining to 27.5 million in 2011. In 2015, the high-income households reached 33 million ~~and became~~, **making this** the largest group in **the** US again.
+
+Regarding the households whose income is less than $25,000 ~~(referred **to** as group A)~~ and between $25,000 and $49,999 ~~(referred **to** as group B~~), respectively, they ~~follow~~**followed** a broadly similar pattern and ~~presented~~**showed** an opposite trend against the high-income households. The number of group A increased from 25 million in 2007 to around 28 million in 2011, while that of group B rose from 27 million to almost 30 million, ~~making up the largest proportion~~**making it the largest category** in the US. **Both figure then** ~~The number of these groups~~ dropped nearly 2 million from 2011 to 2015.
+(不要自己定义group A和B了)
+**By contrast, the two middle-income groups changed very little. The number of households earning $50,000–$74,999 remained at around 21 million throughout, while the $75,000–$99,999 category stayed close to 14 million before edging up to approximately 15 million in 2015.**

@@ -1,9 +1,10 @@
 ---
 title: IELTS-Notes-Writing (Task2)
 category: IELTS
-date: 2026-09-01
+date: 2026-09-03
 ---
 ⚠️语法语法语法，名词复数！动词第三人称单数！
+⚠️不要跑题，人家说的是best way to provide enough homes, 就要论证足够的房子让人住
 ## Advantages & Disadvantages & Agree & Disagree
 
 * ### 框架
@@ -24,6 +25,7 @@ date: 2026-09-01
 	* (para. 5) ... should also allow room for ... .
 	* (para. 2/3/4) These examples show that ... .
 	* (para. 4) Nevertheless, 尽管如此
+	* (para. 1) ... is often considered as ... .
 
 * ### 用词积累
 	* 导致 lead to / result in / cause / 
@@ -36,6 +38,7 @@ date: 2026-09-01
 	* 能够 be able to ...
 	* ...的基石 cornerstone of
 	* 必要性 necessity
+	* 支持 support doing sth
 * 主题积累
 	* 教育
 		* 假期 vacation / holiday / break / recess / 
@@ -72,6 +75,13 @@ date: 2026-09-01
 		* 交个人所得税 pay individual income tax
 		* 养老 support old people
 		* 移民 migration
+		* 住房供应 housing supply
+		* 住宅开发 residential development
+		* 稀缺的城市土地 scarce urban land (make efficient use of ...)
+		* 生活质量 quality of life (improve)
+		* 高峰期 during rush hour
+		* 构成安全隐患 pose certain safety hazards
+		* 城市规划 urban planning
 	* 政府
 	* 媒体
 	* 国际
@@ -139,6 +149,18 @@ However, **it would be a mistake to** expect all scientific research to **produc
 
 **In conclusion, I agree that** improving people's lives **should be** one of the main aims of science because this gives scientific progress a clear social purpose. Nevertheless, science should also **allow room for** curiosity-driven research, **as** such research may lead to major practical benefits in the future.
 
+### 4. The best way to provide enough homes is ...
+~~There is an argument~~**It's often argued** that the best way to provide enough homes in large cities is to build tall apartment blocks. I largely agree with this viewpoint because ~~available spaces~~**land available** for ~~dwelling~~**residential development** in large cities, like Beijing and Shanghai, ~~are~~**is extremely** limited. However, we cannot neglect some potential risks which may be brought about by tall apartment blocks.  
+**pro version**: **Building high-rise apartment blocks is often considered the most effective way to increase the housing supply in large cities.**
+
+One major reason why I support ~~to build~~**building** high-rise apartments in big cities is that building tall apartment blocks can effectively ~~mitigate~~**ease** the young people's pressure of buying houses and commuting. For example, due to the scarcity of land in Beijing, ~~the~~ house prices there are so high that ~~most workers from other cities~~**many people who move to the city for work** can't afford to ~~buy~~**purchase** a house of their own. As a result, they have to rent a room on the outskirts and spend a lot of time ~~on ~~commuting every day. It is expected that **the** more apartments are built, **the** lower the price will be. Then people can choose a closer place to settle, and their ~~living standards~~**quality of life** will also ~~increase~~**improve**.  
+**逻辑修改：One major reason why I favour high-rise housing is that it makes far more efficient use of scarce urban land. A single residential tower can accommodate hundreds of households on a plot that would otherwise provides homes for only a small number of families.**
+(第一段理由写的挺好的，这里怎么跑题了...)
+**pro version:** **increase housing supply and improve affordability, enable people to live closer to employment centers, A large supply of apartments may help alleviate upward pressure on housing prices**
+
+However, there are several drawbacks and potential risks to living in high-rise apartment blocks. With ~~high demographic density and~~**large numbers of residents living in** close proximity ~~in blocks~~**to one another**, **noise complaints and other** conflicts between neighbors may be more frequent. It is also inconvenient to wait for the elevator ~~in~~**during** rush hour for those living ~~at high floor~~**on higher floors**. More importantly, high-rise buildings may pose certain safety hazards, so it is necessary for property management to ~~guarantee~~**ensure** residents' safety.  **Nevertheless, these are primarily problems of building design, regulation and urban planning rather than fundamental weaknesses of high-density housing.** (让步之后需要反驳)
+
+In summary, the best choice to provide enough homes in large cities at present seems to be to build tall apartment blocks. ~~To solve this problem completely, other cities should develop jointly and attract young people by enough job opportunities and comfortable living conditions one day.~~(不要引入新的主要论点)
 
 ## Problems & Solutions
 ### 框架

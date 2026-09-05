@@ -1,7 +1,7 @@
 ---
 title: IELTS-Notes-Words
 category: IELTS
-date: 2026-09-01
+date: 2026-09-05
 ---
 
 ## 近义词辨析
@@ -203,6 +203,30 @@ date: 2026-09-01
 * induce & tempt
 	* induce: 促使、导致某人做某事，偏正式，==强调客观因果关系==
 	* tempt: 诱惑某人做某事，==主观想做+负面意味==, be tempted to do sth
+* commence & begin/start
+	* commence: 正式地开始，公告、合同、典礼、正式流程
+* restore & recover
+	* restore: 把某物恢复到原来的状态，someone restores sth
+	* recover: 从损失、故障、疾病等状态中恢复
+* augment & enlarge & magnify
+	* augment:  增加数量、能力、价值，效果，使之==更强、更多、更完善==，很正式
+	* enlarge: 把尺寸、空间==扩大==, enlarge this image
+	* magnify: 使某物==看起来更大==，本体并不变；把问题、效果放大
+* replace & substitute
+	* replace: 强调==更换==，新的换旧的 replace B with A 用A替代B
+	* substitute: 强调==顶替==，代替同样的功能 substitute A for B 用A替代B
+* convince & persuade
+	* convince: 让某人相信某观点是对的， 改变==想法==
+	* persuade: 说动别人去做事，改变==行为==
+* trench & ditch
+	* trench: 壕沟，用于施工、军事
+	* ditch: 排水沟，路边沟
+* obtain & gain
+	* obtain: 得到某个东西，偏正式，强调==拿到结果==, obtain permission
+	* gain: 积累后获得，强调==经过过程后得到更多==，尤其是抽象事物, gain experience
+* evacuate & retreat
+	* evacuate: 为了==安全==，从危险地区撤走, civilians evacuate
+	* retreat: ==军队==撤退, soldiers retreat; 立场上退缩，退让
 
 ### 近形词辨析
 * induce & deduce & reduce
@@ -228,13 +252,120 @@ date: 2026-09-01
 * snatch & scratch
 	* snatch: 抢，夺
 	* scratch: 抓，挠
+* rag & rug & rob & rod & rub
+	* rag: n. 破布，小报， in rags衣衫褴褛
+	* rug: n. 小地毯，男用假发
+	* rob: v. 抢劫
+	* rod: n. 杆
+	* rub: v. 擦，搓，揉
+* defer & deter
+	* defer: 延期，推迟
+	* deter: 威慑，防止
+* enclose & disclose
+	* enclose: 围住，随信附上(please find enclosed)
+	* disclose: 泄密
+* discard & disregard
+	* discard: 抛弃，丢弃
+	* disregard: 不管，不理会
+* aspire & inspire & respire
+	* aspire: 渴望，向往，有志于
+	* inspire: 激励，鼓舞；赋予灵感；激起
+	* respire: 呼吸
+* offset & outset
+	* offset: vt. 弥补，抵消
+	* outset: n. 开始，起始
+* supply & apply
+	* supply: 供给
+	* apply: 申请
+* aggravate & exaggerate & extravagant
+	* aggravate: vt. 加重，使恶化
+	* exaggerate: v. 夸张，夸大
+	* extravagant: adj. 铺张浪费的，奢侈的
+* seek & seep
+	* seek: vt. 寻找，寻求，seek sth
+	* seep: 
+* welfare & farewell
+	* welfare: n. 福利
+	* farewell: n. 告别
+* distinguish & extinguish
+	* distinguish: 辨别
+	* extinguish: 扑灭，毁灭，偿清
+* render & rent
+	* render: 使变得；提供，给予
+	* rent: 租
+* prestige & privilege
+	* prestige: 威信，威望
+	* privilege: 特权，荣幸
+* vegetation & vegetarian
+	* vegetation: 植被、草木
+	* vegetarian: 素食者
+* organism & organ & organisation
+	* organism: 生物，有机体
+* propel & compel
+	* propel: 推动，驱使
+	* compel: 强迫，compel sb to do
+* accuse & abuse
+	* accuse: 指控,  accuse sb of sth
+	* abuse: 虐待
+* wipe & wrap
+	* wipe: 擦拭，抹去
+	* wrap: 包，裹
+* excavate & escalate & evacuate
+	* excavate: 挖掘，开凿
+	* escalate: 加重，恶化；使...上涨/升级/恶化
+	* evacuate: 撤退
+	* evaluate: 评价，估值
+* ankle & aisle
+	* ankle: 脚踝
+	* aisle: 过道，走廊
+* inflection & refraction
+	* inflection: 语调扬抑变化
+	* refraction: 折射
+* crude & cruel
+	* crude: 粗略的
+	* cruel: 残暴的
+* deputy & penalty
+	* deputy: 副手
+	* penalty: 罚金，处罚，刑罚
+* consistent & constant
+	* consistent: 一致的，连续的
+	* constant: 持续的，恒定的；常数
+* overlook & oversee & outlook
+	* overlook: 忽略，不理会；俯瞰
+	* oversee: 监督，监管
+	* outlook: 观点，前景
 
 
 ### Countable noun
-* 可数复数 people(person的复数，one person, two people, 表示民族时有peoples)
-* 单复数同形 means, series, species
+* price, 
+* **可数复数** people(person的复数，one person, two people, 表示民族时有peoples)
+* **单复数同形** means, series, species
+	* a series
 ### Uncountable noun
-* research(study可数), advice, information, knowledge, evidence, progress (make progress), work (job可数，“作品”“工程”义时可数), homework, equipment (pieces of equipment), furniture (pieces of furniture), luggage/baggage(pieces of ...), traffic, weather(bad weather), accommodation, transport, experience(“经历”义时可数), behavior, luck(good luck), fun(have fun), damage, assistance(provide assistance), feedback(give feedback), software(install software), access(have access to), 
-* 不可数单数(动词+s) news, 
-* 不可数集合名词(动词不+s) data
+* research(study可数)
+* advice
+* information 
+* knowledge 
+* evidence
+* progress (make progress)
+* work (job可数，“作品”“工程”义时可数)
+* homework
+* equipment (pieces of equipment)
+* furniture (pieces of furniture)
+* luggage/baggage(pieces of ...)
+* traffic
+* weather(bad weather)
+* accommodation
+* transport
+* experience(“经历”义时可数)
+* behavior
+* luck(good luck)
+* fun(have fun)
+* damage
+* assistance(provide assistance)
+* feedback(give feedback)
+* software(install software)
+* access(have access to)
+* **不可数单数(动词+s)** news, 
+* **不可数集合名词(动词不+s)** data
 * 

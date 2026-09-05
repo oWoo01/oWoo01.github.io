@@ -1,7 +1,7 @@
 ---
 title: IELTS-Notes-Reading & Listening
 category: IELTS
-date: 2026-08-26
+date: 2026-09-05
 ---
 * **阅读注意事项**
 	* 填词直接从原文复制
@@ -11,9 +11,11 @@ date: 2026-08-26
 	* six dollars and fifty cents 要写$6.==50==而不是$6.5
 	* 1983, nineteen eighty three, nineteen-eighty (==neity==)
 	* 听到啥写啥...别自我发挥
+	* 注意==单数复数==
 	* part3
 		* 捋清逻辑
 		* actually chose to do 和 只是想一想
 		* 态度判断不能只听一方的回答，要结合双方的观点来判断 (e.g. A说gendar analysis关注拉丁美洲的公民社会、政府职位等，B说他对村庄里的人感兴趣，结论B won't do this)
+		* 听关键词，尤其是否定和一些限定词
 
 
