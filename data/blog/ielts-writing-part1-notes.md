@@ -1,15 +1,16 @@
 ---
 title: IELTS-Notes-Writing (Task1)
 category: IELTS
-date: 2026-09-05
+date: 2026-09-08
 ---
 技巧：
 * 利用题目里给的单词，比如consume我就不会自己写
-* 名词化 --> 动词化
+* ==名词化 --> 动词化==
 注意: 
 * 数字+million(不加s, millions of才有s)
 * 区分比例和数量的用词
 * 描述类别不用加the
+* 要保证涵盖到图表中的所有信息，要把所有信息都介绍到！数据本身比比较更重要！
 * ‼️要做到: 保证没有语法错误，尽量没有搭配错误
 * ‼️提升速度
 * ‼️闭卷
@@ -32,8 +33,11 @@ date: 2026-09-05
 	* remained well below X  
 	* ended the period at Y
 	* A and B ==follow a broadly similar pattern==, with .. accounting for the largest share of both ... . ==By contrast==, ... is ... dominantly .. . / A markedly different pattern can be seen for ... .
-	* By comparison, ...
+	* By comparison/contrast, ...
 	* The percentages of A and B are both z, while ==the corresponding figures for== ... are x and y. / ... ==is equally distributed between== A and B, at z each, whereas the respective figures for ... are x and y.
+	* (para .1)The table compares ... in terms of ... .
+	* 尽管 despite/although
+	* X对应的数值 the (corresponding/highest/lowest) figure for X was/stood at/rose to/fell to  ... .
 * ### 用词积累
 * 占比
 	* 占比多少 account for / represent / make up + 具体占比
@@ -60,6 +64,7 @@ date: 2026-09-05
 		* 超过 exceed / was above /  be well over twice ... / just over
 		* 低于 below 
 		* 达到 reach / approach
+		* 相差很多，差异很大 vary considerably, differ substantially
 * 变化
 	* 上升 rise / increase / grow / show an upward trend / climb to / jump to / experience the fastest growth / edge up(小幅上升)
 	* 下降 fall / decline / drop / decrease from ... to ...  / undergo a steady decrease 
@@ -156,3 +161,24 @@ Looking at the details, the number of households earning more than $100,000 annu
 Regarding the households whose income is less than $25,000 ~~(referred **to** as group A)~~ and between $25,000 and $49,999 ~~(referred **to** as group B~~), respectively, they ~~follow~~**followed** a broadly similar pattern and ~~presented~~**showed** an opposite trend against the high-income households. The number of group A increased from 25 million in 2007 to around 28 million in 2011, while that of group B rose from 27 million to almost 30 million, ~~making up the largest proportion~~**making it the largest category** in the US. **Both figure then** ~~The number of these groups~~ dropped nearly 2 million from 2011 to 2015.
 (不要自己定义group A和B了)
 **By contrast, the two middle-income groups changed very little. The number of households earning $50,000–$74,999 remained at around 21 million throughout, while the $75,000–$99,999 category stayed close to 14 million before edging up to approximately 15 million in 2015.**
+
+### 5. 表格
+The table provides information about the date opened, the length of **the** route and the number of passengers per year of subway systems in six cities.
+**pro version:** The table compares six underground railway systems in terms of their opening year, route length and annual passenger numbers.
+
+Overall, six cities are London, Paris, Tokyo, Washin**g**ton DC, Kyoto, Los Angeles ~~in the order of the chronology of date opened~~**in chronological order of opening**. The length of route and passengers per year both vary a lot among the subway systems of six cities.
+**pro version:** Overall, the six systems differ considerably in both route length and annual passenger numbers. London has **the oldest and longest network**, while Los Angeles is the newest; Tokyo carries by far the most passengers, whereas Kyoto has the smallest network and the lowest ridership.
+
+The underground railway system in London ~~launched~~**began operation** in 1863. As the ~~earliest one~~**oldest system**, system in London has the longest 394-kilometre route ~~with 394 kilometres~~ and serves 775 million passengers ~~per year~~**annually**. The subway system in Tokyo ~~withstands~~**carries** the most passengers at 1927 million per year, though ~~the length of route just ranks 3rd~~**its route, at 155 kilometres, is only the third longest**.
+**pro version:** Tokyo, by contrast, carries the largest number of passengers, at 1927 million annually, despite having only the third-longest network, at 155 kilometres.
+
+Kyoto and Los Angeles did not ~~construct~~**introduce** underground railway systems until 1981 and 2001, respectively. The system in Kyoto has the shortest route of 11 kilometres and the ~~least~~**fewest** passengers of 45 million per year. Although the subway system in Los Angeles is more than twice as long as that in Kyoto, it carries only 5 million more passengers per year.(haha,说这是全文最好的一句，但是只有这句我是抄AI的)
+
+(想鼠，越练越回去了)可以按老系统&新系统分，London/Paris/Tokyo开通最早、线路总体较长、客流量较大。
+The table compares underground railway systems in six cities in terms of their opening year, route length and annual passenger numbers.
+
+The three oldest systems are in London, Paris and Tokyo. London, which **opened** its underground railway in 1863, has **by far** the longest network, **extending for** 394 kilometres, although it **carries** 775 million passengers annually. Paris opened its system in 1900 and has 199 kilometres of **track**, **serving** approximately 1191 million passengers each year. Tokyo's network, **established** in 1927, is shorter at 155 kilometres, but it is the **busiest** of all six systems, carrying 1927 million passengers annually.
+
+The three more recently opened systems are **considerably** smaller and **less heavily used**. Washington DC **began operating** its underground railway in 1976 and has a route length of 126 kilometres, with 144 million passengers per year. Kyoto, **opened five years later**, has the shortest network at only 11 kilometres and **the lowest passenger figure**, at 45 million. Los Angeles has the newest system, having opened in 2001. Although its 28-kilometre network is more than twice as long as Kyoto's, it carries only slightly more passengers, at 50 million annually. 
+
+Overall , the older underground railway system **tend to** have longer routes and substantially higher passenger numbers than the newer ones. London has the longest network, while Tokyo is by far the busiest system.

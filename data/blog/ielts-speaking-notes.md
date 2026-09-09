@@ -1,11 +1,14 @@
 ---
 title: IELTS-Notes-Speaking
 category: IELTS
-date: 2026-08-28
+date: 2026-09-09
 ---
 #### 句型积累####
 * What keeps me doing x isn't just A. It's B.
-* Even though A, I prefer B because...
+* What made the experience special was ... .
+* Even though A, I prefer B because.. .
+* One reason might be that ... .
+* I wouldn't say ... is useless, but ...
 * 
 
 * **Weekend routine / Photography**
@@ -102,3 +105,59 @@ date: 2026-08-28
 		* Yes, once. ==It happened when== I was travelling in seoul. The ==transfer instructions== on Google Maps ==didn't match the signs== I saw in the subway station, so I got confused and couldn't find the right platform. In the end, I just followed the crowd and eventually found it. ==Apart from that experience, map apps have been pretty reliable for me.==
 	* Whether that experience changed how you use map apps?
 		* Not really. ==One bad experience didn't change my overall habit==. Even though map apps sometimes ==have small glitches from time to time==, I still rely on them a lot because they save time, reduce stress, and ==make unfamiliar places much easier to navigate==.
+* ** 
+> **Work/study**
+* be a PhD student
+* major in / specialise in
+* focus on / conduct research on
+
+> **Websites**
+* retrieve academic papers
+* keep up with the latest developments
+* search online / look sth up
+* access information
+
+> **Saving money**
+* Background
+	* undergraduate student
+	* attend a concert in Korea
+	* probably a rare opportunity
+* How you saved
+	* put aside some scholarship money
+	* use part of my living allowance
+	* cut back on small expenses
+	* avoid unnecessary purchases
+* Time
+	* take about three months
+	* save gradually rather than all at once
+* Final moment
+	* sat in the stadium and saw my idols in person
+	* felt that all the effort had been worth it
+* Why it mattered
+	* turned a long-term wish into reality
+
+> **What makes students happy at school**
+* academic achievement
+	* solve a difficult/tough problem
+	* improve in a subject
+	* receive recognition
+* friendship
+	* spend time together
+	* chat after class
+	* support each other
+	* have a casual chat
+* school activities
+	* sports, clubs, performances
+* ordinary routines
+	* often become meaningful only later
+> **Why school memories become valuable**
+* people do not realise their value at the time
+* life becomes busier and more complicated later
+* one of the few periods when people spend so much time with the same group of friends
+* memories create a sense of nostalgia
+* provide emotional support/comfort later / remind me of how ambitious I once was and still encourage me now
+* reconnect me with my younger, more ambitious self
+> **Students today vs students past**
+* have more distractions outside school
+* miss some simple everyday moments
+* 

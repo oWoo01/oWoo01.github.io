@@ -1,10 +1,15 @@
 ---
 title: IELTS-Notes-Writing (Task2)
 category: IELTS
-date: 2026-09-03
+date: 2026-09-06
 ---
 ⚠️语法语法语法，名词复数！动词第三人称单数！
+
 ⚠️不要跑题，人家说的是best way to provide enough homes, 就要论证足够的房子让人住
+
+⚠️不要写长句
+
+⚠️抓住关键点，针对性要明显。每段论证完要回扣主题
 ## Advantages & Disadvantages & Agree & Disagree
 
 * ### 框架
@@ -26,6 +31,7 @@ date: 2026-09-03
 	* (para. 2/3/4) These examples show that ... .
 	* (para. 4) Nevertheless, 尽管如此
 	* (para. 1) ... is often considered as ... .
+	* (para. all) A does X, whereas B does Y. Therefore...
 
 * ### 用词积累
 	* 导致 lead to / result in / cause / 
@@ -39,6 +45,8 @@ date: 2026-09-03
 	* ...的基石 cornerstone of
 	* 必要性 necessity
 	* 支持 support doing sth
+	* 不可或缺的 be indispensable for
+	* 
 * 主题积累
 	* 教育
 		* 假期 vacation / holiday / break / recess / 
@@ -82,7 +90,19 @@ date: 2026-09-03
 		* 高峰期 during rush hour
 		* 构成安全隐患 pose certain safety hazards
 		* 城市规划 urban planning
+		* 好的道路 well-paved roads
+		* 交通
+			* carry/serve passengers, handle passenger traffic
+			* 交通网络/长度 network, route length, extend for xxx kilometres
+			* 
+			* 
 	* 政府
+		* 投资 investment
+		* 社会支出 public spending
+		* 城际经济联系 (strengthen)economic links between regions
+		* 当地支柱产业 key local industries
+		* 降低成本 lower costs
+		* 提供资金 allocate funding
 	* 媒体
 	* 国际
 	* 犯罪
@@ -161,6 +181,28 @@ One major reason why I support ~~to build~~**building** high-rise apartments in 
 However, there are several drawbacks and potential risks to living in high-rise apartment blocks. With ~~high demographic density and~~**large numbers of residents living in** close proximity ~~in blocks~~**to one another**, **noise complaints and other** conflicts between neighbors may be more frequent. It is also inconvenient to wait for the elevator ~~in~~**during** rush hour for those living ~~at high floor~~**on higher floors**. More importantly, high-rise buildings may pose certain safety hazards, so it is necessary for property management to ~~guarantee~~**ensure** residents' safety.  **Nevertheless, these are primarily problems of building design, regulation and urban planning rather than fundamental weaknesses of high-density housing.** (让步之后需要反驳)
 
 In summary, the best choice to provide enough homes in large cities at present seems to be to build tall apartment blocks. ~~To solve this problem completely, other cities should develop jointly and attract young people by enough job opportunities and comfortable living conditions one day.~~(不要引入新的主要论点)
+
+### 5. Governments should spend money on railways rather than roads.
+
+> **正因为它们承担互补而不可替代的功能，所以政府不应该系统性地优先铁路、牺牲公路投资。**
+> 这一步如果不明确写出来，TR 很难到 7。
+
+It is often argued that governments should spend more money on railways ~~in comparison with~~**than** roads. In my view, both railways and roads , which provide service for long-distance and short-distance transport, respectively, are necessary for individuals and our society, such that neither should be neglected. 
+**pro version:** **prioritise investment** in railways over roads, the two forms of transport perform **different but complementary functions**: railways are particularly efficient for long-distance travel, whereas roads are **indispensable** for local mobility. Therefore, neither should be neglected in public spending.
+
+Firstly, railways contribute a lot to ~~cross-region collaboration~~**economic links between regions** and the development of tourism **industry**. ~~It is amazing that~~**For example,** travelling from Beijing to Shanghai by **high-speed** train takes only **around** 4 hours, which has substantially promoted economic exchanges and cooperation between companies in the two cities.  Meanwhile, railways facilitate long-distance travel, providing more opportunities for people to ~~spend holidays in another city~~**travel to other cities for leisure**. For those who make a living far away from ~~home~~**hometowns**, they can also go back home to ~~take care of~~**visit** their parents and children more frequently. 
+**pro version:** making frequent business travel far more convenient and facilitating economic exchange between the two cities
+
+Nevertheless, roads ~~is~~**are** equally essential for small counties and towns to improve residents' living standards **(for improving living standards in rural areas and small towns)**. Nowadays, there are still lots of villages without ~~flat and broad~~**well-paved** roads for daily commuting. ~~Once rainy~~**When it rains**, villagers have to cross muddy paths to go to work or school. Furthermore, the development of ~~local pillar industry~~**key local industries** also require~~s~~ convenient access to resources and markets, which helps factories to ~~decrease expenditures~~**lower transport/logistics costs** and ~~increase profits~~**improve competitiveness**. **Since their functions are complementary, prioritising railways across the board would leave important local transport needs unmet.**
+
+In summary, railways and roads are both important ~~to~~**for** ~~economy~~**economic** prosperity and people's **quality of** life. ~~Governments should hasten their development at the same time~~.**Governments should therefore allocate funding to both according to their respective transport needs rather than prioritising one at the expense of the other**
+
+**Logic & Argument Evaluation**: 应该真正论证二者solve different transport problems
+* Railways have a comparative advantage in long-distance, high-capacity intercity transport. Therefore, governments should invest heavily in railways where passenger volumes justify them.
+* Roads are indispensable for local transport, rural connectivity, last-mile access and freight distribution. Even an excellent railway network cannot bring passengers or goods directly to every village, factory or household. **Roads cannot be replaced by railways.**
+* Therefore, governments should not use a blanket rule that always favours railways; **investment should depend on local transport needs.**
+
+
 
 ## Problems & Solutions
 ### 框架

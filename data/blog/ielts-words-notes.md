@@ -1,7 +1,7 @@
 ---
 title: IELTS-Notes-Words
 category: IELTS
-date: 2026-09-05
+date: 2026-09-09
 ---
 
 ## 近义词辨析
@@ -227,7 +227,77 @@ date: 2026-09-05
 * evacuate & retreat
 	* evacuate: 为了==安全==，从危险地区撤走, civilians evacuate
 	* retreat: ==军队==撤退, soldiers retreat; 立场上退缩，退让
+* restrain & resist
+	* restrain: 控制、约束人/事物（可以是别人/自己），==不让它行动/失控==，restrain from ...
+	* resist: ==抵抗==外来的某种力量、诱惑，resist doing sth
+	* restrain myself from eating the cake
+	* resist the temptation to eat the cake
+* squeeze & squash
+	* squeeze: 挤压，强调==施加压力==
+	* squash: 压扁，压烂，强调==被压到变形==
+* differentiate & distinguish
+	* differentiate: 根据特征把不同事物区分开；使...与别人不同, make sth distinct
+	* distinguish: 强调辨别出来
+	* ~ between A and B, ~ A from B
+* feature & trait
+	* feature: 范围很广，人、物、产品、系统、图像、地理等
+	* trait: ==人或生物==相对==稳定==的特征，尤其是性格、遗传或行为特征，偏生物学、心理学
+* sight & view
+	* sight: 眼前看到的景象
+	* view: 从==某个位置==看到的景色
+* nap & doze
+	* nap: 有意识地睡一小段时间
+	* doze: 迷迷糊糊睡着，更轻
+* human & person & mankind
+	* human: 人类个体/人类这一物种
+	* person: 一个具体的人
+	* mankind: ==全人类==
+	* humankind: 全人类，mankind替代词
+	* humanity: 全人类(最常见)；人性、人道、仁慈；
+* massacre & decimation
+	* massacre: n. 大屠杀、残杀
+	* decimation: n. 大量毁灭，数量严重减少
+* nominate & designate
+	* nominate: 提名、推荐为==候选人==
+	* designate: 正式指定，也常用于地点、用途, designated smoking area
+* fact & truth & reality
+	* fact: 一个可以被验证的具体==事实==
+	* truth: 某件事“==是真的==”这一性质
+	* reality: ==客观存在==的现实状况, 而不是想象或预期
+	* The police collected the facts. They wanted to discover the truth.
+	* He needs to face reality. There is a gap between perception and reality.
+* embark & commence
+	* embark: 着手一个新的事业/计划/阶段, embark on a new career
+	* commence: 更正式，强调开始某件事的时间
+* 患病
+	* have a fever
+	* suffer a stroke
+	* get the flu
+	* have a headache
+	* catch a cold
+* lethal & fatal
+	* lethal: 有致死能力的，强调==能杀死==，lethal dose/weapon/force
+	* fatal: 实际导致死亡的，强调==结果是死亡==; 灾难的，毁灭性的 a fatal mistake/accident/injury/crash
+* faint & feeble 
+	* faint: adj. 微弱、隐约、不清楚，强调==感觉不到==，常用于声音、光线、气味、痕迹、希望等 a faint sound/smell/light/hope; v. 晕倒
+	* feeble: 虚弱、无力，强调==身体不行==，或者没有效果, a feeble attempt
+* cure & heal
+	* cure: ==治愈==疾病，强调疾病被消除, cure a(n) disease/infection
+	* heal: 强调==恢复过程==, the wound healed
+* treatment & therapy & remedy
+	* treatment: 治疗，最广泛的总称，包括medicine+surgery+therapy+over interventions
+	* therapy: 某一种系统性的治疗方法，尤其是==康复、心理、长期治疗==
+	* remedy: 常指具体解决办法，==比较轻微的问题/非医学问题==， The government needs to find a remedy for the housing shortage
+* alleviate & relieve & ease
+	* alleviate: 缓解某种严重问题/痛苦，书面语, ==alleviate poverty==/symptoms/pressure
+	* relieve: 减轻痛苦/压力/症状，让人舒服一点, relieve stress/pain/anxiety
+	* ease: ease pressure/tension/==restrictions==
+	* 差不多看起来
+* perish & demise
+	* perish: v. 丧生，比die正式，常见于==灾难、事故、战争==, 有悲剧色彩， perish in a fire/from hunger
+	* demise: n. 死亡，比death更正式委婉；==某个制度、公司、传统的终结/消亡==, The rise of digital media contributed to the demise of many local newspapers.
 
+* **
 ### 近形词辨析
 * induce & deduce & reduce
 	* induce: 引诱，劝说；引起，导致
@@ -318,9 +388,11 @@ date: 2026-09-05
 * ankle & aisle
 	* ankle: 脚踝
 	* aisle: 过道，走廊
-* inflection & refraction
+* inflection & refraction & inflation
 	* inflection: 语调扬抑变化
 	* refraction: 折射
+	* inflation: 通货膨胀
+	* infection: 感染，传染病
 * crude & cruel
 	* crude: 粗略的
 	* cruel: 残暴的
@@ -334,10 +406,62 @@ date: 2026-09-05
 	* overlook: 忽略，不理会；俯瞰
 	* oversee: 监督，监管
 	* outlook: 观点，前景
+* reed & weed
+	* reed: 芦苇
+	* weed: 野草，大麻 seaweed
+* spade & blade
+	* spade: 铲，锹
+	* blade: 叶片
+* shelter & shutter
+	* shelter: 庇护所
+	* shutter: 百叶窗；停业，打烊
+* astronomy & astrology
+	* astronomy: 天文学
+	* astrology: 占星术
+* vogue vague
+	* vogue: n. 时尚
+	* vague: adj. 模糊的
+* oral & aural
+	* oral: 口头的
+	* aural: 听觉的
+* numb & dumb
+	* numb: 麻木的
+	* dumb: 蠢的
+* contempt & contemplate
+	* contempt: n. 鄙视, ~ for
+	* contemplate: v. 深思熟虑, ~ doing sth
+* muffle & shuffle
+	* muffle: 裹住、减弱、镇压
+	* shuffle: 洗牌
+* physician & physicist
+	* physician: 内科医生 (surgeon外科医生)
+	* physicist: 物理学家
+* pill & bill
+	* pill: 药丸，药片(take a pill)
+	* bill: 账单，钞票，议案
+* release & relieve
+	* release: 释放；松开；发泄；解雇；发布
+	* relieve: 减轻，缓和 (relieve sb of sth)
+* extinguish & distinguish
+	* extinguish: 扑灭，熄灭 extinguish a fire
+	* distinguish: 区分，分辨
+* thorough & throughout
+	* thorough: adj. 全面的，彻底的
+	* throughout: prep. 遍及，贯穿 throughout the world, throughout the year/his life/history
+* paralyse & paradise & paradox
+	* paralyse: v. 使瘫痪
+	* paradise: n. 天堂
+	* paradox: n. 悖论
+* instinct & distinct
+	* instinct: n. 天性，直觉
+	* distinct: adj. 明显的；无疑的；不同的
+* receipt & reception
+	* receipt: 收据
+	* reception: 接待处
 
-
+* **
 ### Countable noun
-* price, 
+* price, newspaper
 * **可数复数** people(person的复数，one person, two people, 表示民族时有peoples)
 * **单复数同形** means, series, species
 	* a series
@@ -366,6 +490,6 @@ date: 2026-09-05
 * feedback(give feedback)
 * software(install software)
 * access(have access to)
-* **不可数单数(动词+s)** news, 
+* news
 * **不可数集合名词(动词不+s)** data
 * 
