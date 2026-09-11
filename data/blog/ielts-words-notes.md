@@ -296,6 +296,9 @@ date: 2026-09-09
 * perish & demise
 	* perish: v. 丧生，比die正式，常见于==灾难、事故、战争==, 有悲剧色彩， perish in a fire/from hunger
 	* demise: n. 死亡，比death更正式委婉；==某个制度、公司、传统的终结/消亡==, The rise of digital media contributed to the demise of many local newspapers.
+* dispute & quarrel
+	* dispute: n. 争议，纠纷; v. 争论
+	* quarrel: 争吵
 
 * **
 ### 近形词辨析
@@ -458,6 +461,45 @@ date: 2026-09-09
 * receipt & reception
 	* receipt: 收据
 	* reception: 接待处
+* patch & pitch
+	* patch: 小块地、斑点
+	* pitch: 音高，场地
+* symphony & symptom
+	* symphony: 交响乐
+	* symptom: 症状
+* pace & pave
+	* pace: n. 节奏
+	* pave: v. 铺路，pave the way for ..., pave a road
+* dispose & expose
+	* dispose: vi. 丢掉，处理，dispose of sth
+	* expose: vt. 暴露，揭露
+* liberal & literary
+	* liberal: 开明的；政治自由的；通识的 (liberty n.自由)
+	* literary: 文学的，从事写作的
+* general & generous
+	* general: 普遍的，常规的
+	* generous: 慷慨的，宽宏大量的, be generous with sth
+* ridiculous & rigorous & vigorous & religious
+	* ridiculous: 荒谬的，可笑的
+	* rigorous: 严格的，缜密的
+	* vigorous: 精力旺盛的，强有力的，积极的
+	* religious: 宗教的 
+* mutual & mature & manual
+	* mutual: 相互的，彼此的；共有的
+	* mature: 成熟的
+	* manual: 人力的，体力的
+* assemble & resemble
+	* assemble: 集合，聚集
+	* resemble: 看起来像，resemble your father
+* postulate & speculate
+	* postulate: 假定，假设
+	* speculate: 猜测，推测
+* assert & assault
+	* assert: vt. 断言；坚持(主张)；维护(权威)
+	* assault: n./v. 攻击，袭击
+* admire & aspire
+	* admire: vt. 羡慕，赞赏, admire sb for doing sth
+	* aspire: vi. 向往，渴望，有志于，aspire to do sth
 
 * **
 ### Countable noun

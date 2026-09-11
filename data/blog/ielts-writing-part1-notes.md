@@ -1,7 +1,7 @@
 ---
 title: IELTS-Notes-Writing (Task1)
 category: IELTS
-date: 2026-09-08
+date: 2026-09-11
 ---
 技巧：
 * 利用题目里给的单词，比如consume我就不会自己写
@@ -25,16 +25,16 @@ date: 2026-09-08
 	* (para.2) The majority of ... had significantly growth ..., except ...
 	* ... is likely to have increased ==by== 未来时间点 (is likely to表示未来可能发生的事情，have done根据by来确定)
 	* whereas比while更适合正式比较
-	* rose from around 2 million to 16 million, ==representing the largest absolute increase== among the four sectors.
+	* 净增长 rose from around 2 million to 16 million, ==representing the largest absolute increase== among the four sectors.
 	* The figure ==stood at / climbed to / reached / fell to== approximately 16 million in 2020.
 	* rose from X to Y  
-	* overtook X  
-	* was approximately equal to X  
-	* remained well below X  
-	* ended the period at Y
-	* A and B ==follow a broadly similar pattern==, with .. accounting for the largest share of both ... . ==By contrast==, ... is ... dominantly .. . / A markedly different pattern can be seen for ... .
-	* By comparison/contrast, ...
-	* The percentages of A and B are both z, while ==the corresponding figures for== ... are x and y. / ... ==is equally distributed between== A and B, at z each, whereas the respective figures for ... are x and y.
+	* 超过 overtook X  
+	* 大概相等 was approximately equal to X  
+	* 远低于X remained well below X  
+	* 最终是Y ended the period at Y
+	* 趋势相似/不同 A and B ==follow a broadly similar pattern==, with .. accounting for the largest share of both ... . ==By contrast==, ... is ... dominantly .. . / A markedly different pattern can be seen for ... .
+	* 比较 By comparison/contrast, ...
+	* 相同数值 The percentages of A and B are both z, while ==the corresponding figures for== ... are x and y. / ... ==is equally distributed between== A and B, at z each, whereas the respective figures for ... are x and y.
 	* (para .1)The table compares ... in terms of ... .
 	* 尽管 despite/although
 	* X对应的数值 the (corresponding/highest/lowest) figure for X was/stood at/rose to/fell to  ... .
@@ -74,29 +74,156 @@ date: 2026-09-08
 	* 不变 remain almost unchanged / remain relatively stable / change very little
 	* 下降多少 fall by around 1-2 million
 	* 趋势 show/follow a (opposite) trend (to)
+	* 大幅波动 violent fluctuations up and down
+	* 在x和y之间波动 show fluctuations between x and y
+	* 波动中上升 an upward trend with great fluctuations
+	* 达到峰值 climb to a peak
+	* 相交 intersect/meet/converge at ? in 
+	* 保持稳定 level out / do not change / remain stable / remain still / remain steady 
 * 副词 
-	* 明显 considerably / significantly / much / substantially
+	* 明显 considerably / significantly / much / substantially / noticeably
 	* 持续/逐渐 steadily / gradually / 
-	* 急剧 sharply / dramatically /
-	* 略 slightly / marginally
+	* 急剧 sharply / dramatically / steeply
+	* 略 slightly / marginally / modest(adj.) / moderately
 	* 大约 approximately / about / roughly / near
 	* 更平缓 grew more gradually / at a slower rate
 	* 进一步  further
+	* 缓慢地 smoothly / gradually
 * 分布
 	* 均匀 became evenly distributed
 * 时间
 	* over the period from A to B
 	* between A and B
-	* decline steadily for the remainder of the period
-	* throughout the period
-	* by the end of the period
+	* 以后都 decline steadily for the remainder of the period
+	* 整个时期 throughout the period
+	* 最后 by the end of the period
+* 地图
+	* 路和路口
+		* 街道 street
+		* 主路 main road
+		* 小路，小巷 lane
+		* 小径 path / sidepath
+		* 红绿灯 traffic lights
+		* 斑马线 pedestrian crossing
+		* 十字路口 intersection / crossroads
+		* 丁字路口 T-junction
+		* 圆形区域 circular area
+		* 环岛 roundabout
+		* 桥 bridge
+		* 楼梯 stairs
+		* 直角拐弯 a right-angle bend
+		* 弯道 bend
+		* 连续弯路 winding road
+		* 分叉路口 branch off
+		* 环形 circle road
+		* 立交桥 flyover
+		* 车站 station
+		* 铁路线 train road
+		* 长椅 benches
+		* 停车场 parking lot
+	* 布局
+		* 区域 area
+		* 布局 layout
+		* 区块 section
+		* 空间 space
+		* 场地 site
+		* 布置 arrangement
+		* 设计 design
+		* 结构 structure
+		* 室内/外空间 indoor/outdoor space
+		* 围绕...布局 be laid out around
+		* 围绕...布置 be arranged around
+		* 分布在... be spread across
+		* 集中布置 be grouped together
+		* 占据空间 occupy space
+		* 为...留出空间 leave room for
+		* 被用于 be used for
+		* 被变成 be turned/converted into
+		* 作为 serve as
+		* 被指定为 be designated as
+		* 被化作 be allocated for
+	* 土地用途land use
+		* 开放空间 open space
+		* 绿地 green space
+		* 公共空间 public space
+		* 住宅区 residential area
+		* 商业区 commercial area
+		* 工业区 industrial area
+		* 休闲区 recreational area
+		* 公共设施 public facilities
+		* 绿地 green area
+	* 变化
+		* 整体变化
+			* 发生显著变化 undergo significant changes / change considerably
+			* 经历重新开发 experience redevelopment
+			* 变得更现代/宽敞 become more modern/spacious
+			* 布局更合理 become better organized
+		* 建造 build
+		* 设有 feature
+		* 建造 build
+		* 建设 construct
+		* 新增 add
+		* 引入 introduce
+		* 扩大 expand / enlarge
+		* 延伸，扩建 extend
+		* 加宽 widen
+		* 替代 replace
+		* 为...让路 make way for
+		* 重新开发 redevelop
+		* 拆除 demolish / knock down 
+		* 移除 remove
+		* 改建 convert
+	* 位置
+		* 在顶/底部 at the top/bottom of map
+		* 在左/右侧 on the left/right-hand side of
+		* 在角落 in the top/bottom-left/right corner of
+		* 在场地边缘 at the edge of the site
+		* 沿着边界 along the eastern boundary
+		* 平行于 parallel to
+		* 一侧 side
+		* 离...远 away (一个街区远 a block away)
+		* 在角落 in/on/at the corner
+		* 靠近地图中央 near the center of the map
+		* 挨着 near by / next to / beside / adjacent to 
+		* 在更远的地方 beyond
+		* 在尽头 at the end of
+		* 在...对面 opposite / across the road / crossing the road
+		* 在同一边 on the same side
+		* 在另一边 on the other side
+		* 在...之间 between
+		* 在...后面 behind
+		* 在...前面 in front of
+		* 在...中间 in the center of
+	* 路线动作
+		* 直走 go straight
+		* 在正前方 X is straight ahead
+		* 在第二个路口右转 take the second right
+		* 朝着...走 facing in the direction of / go towards / head to
+		* 径直穿过 cross /  cut/get across 
+		* 掉头 turn around
+		* 经过 go past
+		* 穿过...内部 go through
+		* 沿着 walk/go along 
+		* 绕...而行 detour/go around, take a detour
 * 图的类型
 	* 折线图 line graph: The line graph illustrates ...
+		* trace the development of ... over time, starting from ... and ending in ... .
+		* depict the trends in ... across different time points, highlighting the fluctuations and patterns
+		* show how ... has changed over the years
+		* 特征描述
+			* 
 	* 柱状图 bar chart: the bar chart compares ...
+		* compare A and B in terms of ...
+		* illustrate changes in ... over the period from ... to ...
 	* 饼图 pie chart: The pie charts show ...
-	* 表格 table: The table provides information about ...
-	* 流程图 process diagram: The process diagram illustrates how ...
+	* 表格 table: The table provides information about ... / summarises the information regarding ..., including ...
+	* 流程图 process diagram / flowchart: The process diagram illustrates how ...
+		* outline the sequence of actions involved in ..., highlighting the key stages and transitions.
+		* present a visual representation of ... process, including its major components and connections
 	* 地图 map
+		* depict the geographical distribution of ... in the region, highlighting the key locations and features
+		* show the spatial arrangement of ...
+		* outline the boundaries and key features of ..., illustrating its geographical context
 	* 组合图 the charts/figures
 	* 示意图 diagram
 * 高级替换

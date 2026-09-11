@@ -6,10 +6,14 @@ date: 2026-09-09
 #### 句型积累####
 * What keeps me doing x isn't just A. It's B.
 * What made the experience special was ... .
-* Even though A, I prefer B because.. .
-* One reason might be that ... .
-* I wouldn't say ... is useless, but ...
 * 
+* Even though A, I prefer B because.. .
+* I'm more into A than B.
+* Whenever I ..., I usually ...
+* To be honest, I enjoy ..., but when it comes to ..., I prefer ... .
+* 
+* One reason might be that ... / is that it allows me to ... .
+* I wouldn't say ... is useless, but ...
 
 * **Weekend routine / Photography**
 	* i人：as an introvert
@@ -111,17 +115,45 @@ date: 2026-09-09
 * major in / specialise in
 * focus on / conduct research on
 
+## Part 1
 > **Websites**
 * retrieve academic papers
 * keep up with the latest developments
 * search online / look sth up
 * access information
+>**Travel**
+* sit by the window
+	* prefer a window seat on trains
+	* sit by the window
+	* watch the landscape go by
+	* look out of the window to take in the scenery
+	* I normally choose ... because it gives a chance to ...
+* Benefits of travelling
+	* experience different lifestyles
+	* become more open-minded
+	* get away from the hustle and bustle
+	* immerse myself in the local culture
+	* see things from a different perspective
+	* step outside my comfort zone
+	* make lasting memories
+* Travelling with friends
+	* split the cost of accommodation and meals
+	* travel on a budget
+* Travelling with family as a child
+	* One journey that really stands out was when my family and I travelled to ... when I was about ... . We travelled by ..., and the hole journey took around ... .
+	* Back then, we still travelled on those old-fashioned green trains. I remember we had tickets for a train that left around midnight, but unfortunately we didn't manage to get seats. I was so tired that I eventually **curled up** in the space under the seats and fell asleep there for a while. Most of the journey is **a bit of a blur now**, but that night is still a vivid childhood memory for me.
+	* If I remember correctly, ...
+	* look back on it fondly , it was tiring but memorable
 
+
+## Part 2
 > **Saving money**
 * Background
 	* undergraduate student
 	* attend a concert in Korea
 	* probably a rare opportunity
+	* save up for sth
+	* it was a time when I happened to have both the money and the free time.
 * How you saved
 	* put aside some scholarship money
 	* use part of my living allowance
@@ -150,6 +182,7 @@ date: 2026-09-09
 	* sports, clubs, performances
 * ordinary routines
 	* often become meaningful only later
+
 > **Why school memories become valuable**
 * people do not realise their value at the time
 * life becomes busier and more complicated later
@@ -157,7 +190,13 @@ date: 2026-09-09
 * memories create a sense of nostalgia
 * provide emotional support/comfort later / remind me of how ambitious I once was and still encourage me now
 * reconnect me with my younger, more ambitious self
+* help me / give people motivations to keep going / move forward / strive for a better life
+* cheer me up
+* When I was struggling in college, ... .
+
 > **Students today vs students past**
 * have more distractions outside school
+* pay as much attention to ... as students did in the past
 * miss some simple everyday moments
-* 
+* study on my own
+* I sometimes felt a bit tired of the routine. But looking back, those ... moments have become some of my most precious memories
