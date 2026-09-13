@@ -98,21 +98,52 @@ date: 2026-09-13
 ### 1. Politeness（礼貌）
 
 - How did you learn to be polite as a child?
+	- learn basic manners from an early age (in kindergarten)
+	- be taught to say "please" and 'thank u'
+	- My parents always reminded me to greet other politely
+	- gradually learned how to behave politely through everyday interactions
+	- **pick up good manners naturally**
+	- learn by observing adults
 - Do you think being polite is very important?
-- Do you think being polite is important?
+	- I think it matters especially when we meet someone for the first time, because ...
+	- Politeness **shapes the first impression** people have of you
+	- It helps conversations go more smoothly
+	- make others feel warm and comfortable / respected
 - Who taught you to be polite?
-- When did you learn to be polite?
-- How did you learn about politeness when you were a child?
+	- Teachers taught basic expressions
+	- Parents **reinforced these habits** at home
+	- learn from interaction with others naturally
 - When should people show respect to others?
+	- in almost every interaction, because every little gestures can affect how others feel
+	- respect shouldn't be reserved only for formal or important occasions, even small everyday interactions matter
 - Have you met anyone very polite recently?
+	- thank someone warmly
+	- My advisor; help him with reviewing a paper;
+	- Although it was **a small gesture**, it made me feel that my work was noticed and appreciated
+	- **What impressed me was that** ...
 
 ### 2. Collecting things（收藏）
 
 - Do you collect things?
+	- I wouldn't call myself a(n) avid/serious collector.
+	- collect photocards
+	- keep them together in a photo album to prevent from damage
 - Are there any things you have kept from your childhood?
+	- Quite a few letters from my childhood friends
+	- be still kept in my family home
+	- reread them
+	- remind me of the memories we shared / bring back memories
+	- **childhood keepsakes**
 - Would you keep old things for a long time? Why?
+	- I'm quite **a sentimental person**
+	- A Minion toy from my friend at primary school
+	- still keep it because of **the memories attached to it**
 - Where do you usually keep things you need?
+	- keep/store most of my things in cabinets or drawers
+	- If it's something I use frequently, I keep it **within easy reach / close at hand / easy to access**, usually on my desk
 - Do you think collecting things is a good hobby?
+	- collecting can be meaningful: help people preserve memories, may seem useless to others, but they can **have a lot of personal significance to the owner**
+	- Excessive collecting may sometimes **reflect underlying stress**
 
 ### 3. Shoes（鞋子）
 

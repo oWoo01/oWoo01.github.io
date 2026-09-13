@@ -15,6 +15,15 @@ date: 2026-09-13
 - How you helped him/her
 - And explain whether it was easy or difficult
 
+* mother → serious illness → regular exercise → daily check-ins from Beijing → exercise together / Wu Qin Xi → difficult but worth it
+* I'd talked about my mother
+* go through a serious illness , receive treatment in hospital, a long recovery
+* deal with physical and emotional stress, regular exercise to **regain her strength and reduce the risk of a relapse** 
+* **keep each other motivated** remotely, keep in touch, **check in**, share daily exercise progress
+* Whenever I went home, we exercised together, wuqinxi
+* **I wouldn't say it was easy**. Keeping her motivated every day **was quite tough**. / The hardest part was **staying consistent**. 
+* Fortunately, we **stuck with** it. Her **physical condition** gradually improved. In the end, **it was definitely worth it**.
+
 ### 2. 受欢迎的人（新题）
 
 > Describe a popular person

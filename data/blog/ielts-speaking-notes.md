@@ -14,6 +14,7 @@ date: 2026-09-09
 * 
 * One reason might be that ... / is that it allows me to ... .
 * I wouldn't say ... is useless, but ...
+* What expressed me most was that ... .
 
 * **Weekend routine / Photography**
 	* i人：as an introvert
