@@ -299,6 +299,18 @@ date: 2026-09-09
 * dispute & quarrel
 	* dispute: n. 争议，纠纷; v. 争论
 	* quarrel: 争吵
+* penalty & sanction
+	* penalty: 因为违反规则、法律、合同而受到的==处罚==
+	* sanction: ==制裁==，政府、国际组织对国家/机构实施的惩罚性措施；批准
+* illustrate & illuminate
+	* illustrate: 说明，==通过例子/图表==让意思更清楚
+	* illuminate: 阐明、揭示，使原本复杂的东西更容易理解, shed light on
+* institute & institution
+	* institute: 专门从事==教育、研究==、培训或专业工作的机构；推行政策 institute a policy
+	* institution: 学校、医院、银行等正式组织，范围更广更抽象；制度, social institution
+* intuition & instinct
+	* intuition: 
+	* instinct: 
 
 * **
 ### 近形词辨析
@@ -500,6 +512,13 @@ date: 2026-09-09
 * admire & aspire
 	* admire: vt. 羡慕，赞赏, admire sb for doing sth
 	* aspire: vi. 向往，渴望，有志于，aspire to do sth
+* application & appliance & accessory
+	* application: 应用；申请
+	* appliance: (家用)电器
+	* accessory: 配件, 附属品；配饰
+* prototype & stereotype
+	* prototype: 原型，雏形
+	* stereotype: 成见，刻板印象
 
 * **
 ### Countable noun

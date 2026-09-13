@@ -121,29 +121,7 @@ date: 2026-09-09
 * keep up with the latest developments
 * search online / look sth up
 * access information
->**Travel**
-* sit by the window
-	* prefer a window seat on trains
-	* sit by the window
-	* watch the landscape go by
-	* look out of the window to take in the scenery
-	* I normally choose ... because it gives a chance to ...
-* Benefits of travelling
-	* experience different lifestyles
-	* become more open-minded
-	* get away from the hustle and bustle
-	* immerse myself in the local culture
-	* see things from a different perspective
-	* step outside my comfort zone
-	* make lasting memories
-* Travelling with friends
-	* split the cost of accommodation and meals
-	* travel on a budget
-* Travelling with family as a child
-	* One journey that really stands out was when my family and I travelled to ... when I was about ... . We travelled by ..., and the hole journey took around ... .
-	* Back then, we still travelled on those old-fashioned green trains. I remember we had tickets for a train that left around midnight, but unfortunately we didn't manage to get seats. I was so tired that I eventually **curled up** in the space under the seats and fell asleep there for a while. Most of the journey is **a bit of a blur now**, but that night is still a vivid childhood memory for me.
-	* If I remember correctly, ...
-	* look back on it fondly , it was tiring but memorable
+
 
 
 ## Part 2

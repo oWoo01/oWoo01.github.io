@@ -1,7 +1,7 @@
 ---
 title: IELTS-Notes-Reading & Listening
 category: IELTS
-date: 2026-09-10
+date: 2026-09-13
 ---
 * **阅读注意事项**
 	* 填词直接从原文复制
@@ -16,6 +16,7 @@ date: 2026-09-10
 	* 注意==单数复数==
 	* 填写核心名词，而不是修饰词
 	* ==听懂是前提==，听懂就能做对，想着找答案就做不对
+	* 日期写法: 24th April / 24 April / April 24 / April 24th
 	* part3
 		* 捋清逻辑
 		* actually chose to do 和 只是想一想
