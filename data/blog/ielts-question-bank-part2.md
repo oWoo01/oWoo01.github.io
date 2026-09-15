@@ -1,10 +1,39 @@
 ---
 title: IELTS-Speaking Part 2 Question Bank
 category:
-date: 2026-09-13
+date: 2026-09-15
 ---
-
+* 讲例子
+	* For example
+	* I remember once ... . At that time, 
+	* 
 ## 一、人物类 People（19 题）
+
+relationship → personality → specific example → impact on you → why you admire/like them
+
+* 描述人物 
+	* 描述人物 I would describe her/him as a(n) ... person. +例子
+	* 特质 
+		* What I like/respect/respire most about her/him is that ...
+		* One thing that really stands out about him/her is ... 
+	* 原因 I think that’s the main reason she was so ... .
+	* 给我留下印象 leave a strong impression on me
+	* 给我树立榜样 set a good example for me
+	* 对我有积极影响 have a positive influence on me
+	* 激励我 inspire me to be a better person
+	* 教我...的重要性 teach me the importance of persistence/responsibility
+	* 赢得人们尊敬 earn people's respect
+* 人物特性
+	* 热心 enthusiastic / warm-hearted / be willing to help others / supportive
+	* 外向/好相处 outgoing / easy to get along with / making others feel ... / friendly
+	* 活跃 active / participate in / 
+	* 学习好/擅长 a strong student / get good grades / be good at / capable
+	* 体贴 considerate / be sensitive to other people's feeling
+	* 可靠 reliable
+	* 脚踏实地 down-to-earth
+	* 自律 self-disciplined
+	* 努力 hard-working
+	* 负责任 responsible
 
 ### 1. 帮别人提升健康（新题）
 
@@ -28,10 +57,11 @@ date: 2026-09-13
 
 > Describe a popular person
 
-- Who this person is
-- What kind of person he or she is
-- When you see him/her normally
-- And explain why you think this person is popular
+- Who this person is → high school classmate 
+- What kind of person he or she is → popular / enthusiastic / warm-hearted  → school events + good grades
+- When you see him/her normally → sat behind me / discussed homework
+- And explain why you think this person is popular → noticed I was upset / sent me a message → supportive / easy to get along with / made people feel valued
+-  It was only a small thing, but it meant a lot to me.
 
 ### 3. 钦佩的运动员（新题）
 

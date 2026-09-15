@@ -6,6 +6,7 @@ date: 2026-09-11
 技巧：
 * 利用题目里给的单词，比如consume我就不会自己写
 * ==名词化 --> 动词化==
+
 注意: 
 * 数字+million(不加s, millions of才有s)
 * 区分比例和数量的用词
@@ -67,7 +68,7 @@ date: 2026-09-11
 		* 相差很多，差异很大 vary considerably, differ substantially
 * 变化
 	* 上升 rise / increase / grow / show an upward trend / climb to / jump to / experience the fastest growth / edge up(小幅上升)
-	* 下降 fall / decline / drop / decrease from ... to ...  / undergo a steady decrease 
+	* 下降 fall / decline / drop / decrease from ... to ...  / undergo a steady decrease / descend
 	* 先上升后下降 rose to X before declining to Y
 	* 最高 reach a peak of 
 	* 最低 plunge to a record low / fall to a low point of 
@@ -184,7 +185,7 @@ date: 2026-09-11
 		* 离...远 away (一个街区远 a block away)
 		* 在角落 in/on/at the corner
 		* 靠近地图中央 near the center of the map
-		* 挨着 near by / next to / beside / adjacent to 
+		* 挨着 near by / next to / beside / adjacent to / in the vicinity of
 		* 在更远的地方 beyond
 		* 在尽头 at the end of
 		* 在...对面 opposite / across the road / crossing the road
@@ -205,32 +206,18 @@ date: 2026-09-11
 		* 穿过...内部 go through
 		* 沿着 walk/go along 
 		* 绕...而行 detour/go around, take a detour
-* 图的类型
-	* 折线图 line graph: The line graph illustrates ...
-		* trace the development of ... over time, starting from ... and ending in ... .
-		* depict the trends in ... across different time points, highlighting the fluctuations and patterns
-		* show how ... has changed over the years
-		* 特征描述
-			* 
-	* 柱状图 bar chart: the bar chart compares ...
-		* compare A and B in terms of ...
-		* illustrate changes in ... over the period from ... to ...
-	* 饼图 pie chart: The pie charts show ...
-	* 表格 table: The table provides information about ... / summarises the information regarding ..., including ...
-	* 流程图 process diagram / flowchart: The process diagram illustrates how ...
-		* outline the sequence of actions involved in ..., highlighting the key stages and transitions.
-		* present a visual representation of ... process, including its major components and connections
-	* 地图 map
-		* depict the geographical distribution of ... in the region, highlighting the key locations and features
-		* show the spatial arrangement of ...
-		* outline the boundaries and key features of ..., illustrating its geographical context
-	* 组合图 the charts/figures
-	* 示意图 diagram
-* 高级替换
-	* group --> category
-	* during the period --> throughout the period
-	* increased slightly --> edged up
-	* 
+* 流程图
+	* overall, there are x main stages involved in ... , beginning with ... and ending with ... . The whole process covers ..., during which ... unfold in sequence.
+	* 开始 Initially / At the beginning
+	* 连接 before/ followed by
+	* 接下来 subsequently / following this / then 
+	* 最终 eventually / finally 
+	* 导致 leading to / causing / resulting in / Consequently
+	* 进一步 further
+	* 依次展开 unfold in sequence
+	* 随着 as ...
+	* 步骤，程序 (follow the) procedure
+
 	
 (之前写过几篇...)
 ### 1. Average weekly spending by families in 1968 and 2018
@@ -309,3 +296,15 @@ The three oldest systems are in London, Paris and Tokyo. London, which **opened*
 The three more recently opened systems are **considerably** smaller and **less heavily used**. Washington DC **began operating** its underground railway in 1976 and has a route length of 126 kilometres, with 144 million passengers per year. Kyoto, **opened five years later**, has the shortest network at only 11 kilometres and **the lowest passenger figure**, at 45 million. Los Angeles has the newest system, having opened in 2001. Although its 28-kilometre network is more than twice as long as Kyoto's, it carries only slightly more passengers, at 50 million annually. 
 
 Overall , the older underground railway system **tend to** have longer routes and substantially higher passenger numbers than the newer ones. London has the longest network, while Tokyo is by far the busiest system.
+
+### 6. 流程图
+Rain-shadow deserts ~~always~~(太绝对) form in the inland thousands of kilometres away from ~~sea~~**the** coast, with mountains between them. The diagram illustrates the formation process of this type of desert.  
+**pro version:** The diagram illustrates how a rain-shadow desert is formed as moist sea air passes over a mountain range and reaches inland areas. 
+
+**Overall, there are seven main stages involved in the formation, beginning with winds approaching the coast and ending with dry winds reaching inland areas. The whole process covers thousands of kilometres, during which atmospheric stages unfold in sequence.**
+
+At the beginning, ~~sea~~ winds from the sea approach **the** coast. ~~Facing~~**Reaching** the windward side of **the** mountains, winds are pushed upwards. Then, moist air rises and cools. Subsequently, clouds form ~~in~~**at a** higher altitude and the humidity of the winds decreases further. ~~With climbing steadily~~**As the air continues to rise**, rain falls near the ridge and ~~dry air is left over~~**the remaining air becomes much drier**.  
+
+~~Over~~**After crossing the** mountain **/Once the air passes over the mountain**, dry air ~~begins to go down~~**descends** along the leeward side of mountains. ~~During this thousand-kilometer downhill journey, there is almost no supplement to moist air.~~ ~~When reaching inland areas finally, there are still only dry winds~~**The dry winds then continue towards inland areas**. ~~Moist air cannot manage to be transmitted to inland areas  and rainfall here is always extremely low.~~**Because most of the moisture has already been lost on the windward side, very little rainfall reaches the inland area.** ~~After a few years~~**As a result**, a rain-shadow desert forms.
+**pro version:** Initially, winds from the sea approach the coast and are forced upwards when they **encounter** the windward **slope** of the mountains. As the moist air rises, it cools, causing clouds to form at higher altitudes. Continued uplift eventually results in rainfall near the mountain peak, removing a substantial proportion of the moisture from the air.
+The remaining dry air them moves over the mountain range and descends along the leeward slope. It continues towards the inland area without regaining significant moisture. Consequently, **very little rainfal**l reaches this region. These persistently dry conditions give rise to a rain-shadow desert on the inland side of the mountains.

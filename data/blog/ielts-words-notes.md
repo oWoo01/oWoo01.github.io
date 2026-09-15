@@ -1,7 +1,7 @@
 ---
 title: IELTS-Notes-Words
 category: IELTS
-date: 2026-09-09
+date: 2026-09-14
 ---
 
 ## 近义词辨析
@@ -117,7 +117,7 @@ date: 2026-09-09
 	* steal: 宾语为==东西==，偷走某物
 * burst & blast & explode
 	* burst: 因==内部压力==而突然爆开
-	* blast:爆炸产生的猛烈==冲击==
+	* blast: 爆炸产生的猛烈==冲击==
 	* explode: 爆炸动作本身
 	* A balloon bursts. A bomb explodes. The explosion creates a blast.
 * pitfall & trap
@@ -309,8 +309,25 @@ date: 2026-09-09
 	* institute: 专门从事==教育、研究==、培训或专业工作的机构；推行政策 institute a policy
 	* institution: 学校、医院、银行等正式组织，范围更广更抽象；制度, social institution
 * intuition & instinct
-	* intuition: 
-	* instinct: 
+	* intuition: 基于==经验和潜意识==判断形成的直觉
+	* instinct: 更本能、原始的反应，==本能==
+* blend & mix
+	* blend: 强调融合，混合得==均匀、协调==
+	* mix: 很宽泛，combine different things
+	* mix the ingredients把食材混到一起
+	* blend them until smooth 搅到均匀
+* everlasting & permanent
+	* everlasting: 强调永远持续，长久不灭，更文学
+	* permanent: 强调不会改变/被撤销，常用语制度、工作、损伤等 permanent job/damage/resident, not temporary
+* undermine & impair
+	* undermine: ==逐渐削弱==基础、力量、可信度，对象比较抽象, confidence/trust/authority/stability
+	* impair: ==直接损害==某种==功能==或质量, impair vision/hearing/memory
+* maintain & remain
+	* maintain: vt. 维持，维修，保养 maintain order/contact/a car
+	* remain: 
+* separate & segregate
+	* separate: 
+	* segregate: 
 
 * **
 ### 近形词辨析
@@ -485,9 +502,12 @@ date: 2026-09-09
 * dispose & expose
 	* dispose: vi. 丢掉，处理，dispose of sth
 	* expose: vt. 暴露，揭露
-* liberal & literary
-	* liberal: 开明的；政治自由的；通识的 (liberty n.自由)
+* liberty & liberal & literary & literate & literal
+	* liberty: n.自由
+	* liberal: 开明的；政治自由的；通识的 
 	* literary: 文学的，从事写作的
+	* literate: 有读写能力的
+	* literal: 字面的，逐字的(literal translation直译)；如实的；绝对的；确确实实的（literally, 简直）
 * general & generous
 	* general: 普遍的，常规的
 	* generous: 慷慨的，宽宏大量的, be generous with sth
@@ -519,6 +539,9 @@ date: 2026-09-09
 * prototype & stereotype
 	* prototype: 原型，雏形
 	* stereotype: 成见，刻板印象
+* rectify & testify
+	* rectify: vt. 纠正 rectify a situation
+	* testify: vi. 作证，指认 testify against sb / to sth
 
 * **
 ### Countable noun

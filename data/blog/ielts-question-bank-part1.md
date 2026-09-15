@@ -1,7 +1,7 @@
 ---
 title: IELTS-Speaking Part 1 Question Bank
 category:
-date: 2026-09-13
+date: 2026-09-15
 ---
 
 ## 一、万年题
@@ -148,10 +148,29 @@ date: 2026-09-13
 ### 3. Shoes（鞋子）
 
 - Do you like buying shoes? How often?
+	- **kind of** obsessed with
+	- usually only buy one new pair a year / one new pair a year is enough for be because I **already have** enough shoes
 - Have you ever bought shoes online?
+	- actually I mostly ...
+	- the **sizing is consistent**
+	- I **hardly ever** buy shoes in **physical stores anymore**
 - How much money do you usually spend on shoes?
+	- **I'm willing to** pay around xx to xx
+	- I want a pair that's both **comfortable and durable**
 - Which do you prefer, fashionable shoes or comfortable shoes?
+	- For me, comfort is the most important thing **when it comes to** shoes.
+	- I walk a lot on campus.
+	- If the shoes are not comfortable, my feet start to hurt.
+	- Fashionable shoes may look good, but comfort **matters more** to me.
 - Would you wear sneakers when you are not exercising?
+	- I prefer casual shoes if I have no plan to exercise.
+	- **Compared with** sneakers, casual shoes feel more **stylish and versatile** for **everyday outfits**.
+- 鞋的种类
+	- 运动鞋 sneakers / trousers
+	- 休闲鞋 casual shoes 
+	- 日常穿的运动鞋  lifestyle sneakers
+	- 小皮鞋什么的 formal shoes / dress shoes
+	- 跑鞋 running shoes
 
 ### 4. Travelling（长途旅行）
 
