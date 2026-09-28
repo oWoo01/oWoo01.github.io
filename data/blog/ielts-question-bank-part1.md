@@ -3,7 +3,13 @@ title: IELTS-Speaking Part 1 Question Bank
 category:
 date: 2026-09-15
 ---
-
+* 习惯类
+	* Usually, I ... . + reason/detail
+* Do you类
+	* 不完全是 Not really
+	* 不太确定 I'm not really sure
+	* 我会觉得 I'd say
+	* 根据我的了解 From what I know
 ## 一、万年题
 
 ### 1. Work or studies（工作或学习）
@@ -186,7 +192,6 @@ date: 2026-09-15
 	* If I remember correctly, ...
 	* look back on it fondly , it was tiring but memorable
 - What do you usually do during a long journey?
-	- 
 - Do you prefer travelling alone or with other people?
 	- split the cost of accommodation and meals
 	* travel on a budget
@@ -201,17 +206,58 @@ date: 2026-09-15
 ### 5. Rubbish and recycling（垃圾回收）
 
 - What do you do when you see rubbish on the street?
+	- I usually just walk past
+	- there might be bacteria on it, so I don't want to touch it
+	- If I **happen to have gloves or tissues**, I'd be willing to pick it up and throw it away
 - How do you recycle things like paper and plastic?
-- Do you recycle rubbish?
+	- I don't recycle things myself
+	- separate paper and plastic and put them in the right bin
+	- then the recycling system takes care of the rest
 - Do people in your city recycle rubbish?
+	- some people do
+	- a lot of rubbish is collected and then **burned to generate electricity**
 - How is rubbish recycled in your city?
-- How do you usually deal with rubbish at home?
+	- be collected and taken to a recycling center
+	- workers or machines separate the recyclable materials from the rest
 - Do you sort your garbage before throwing it away?
+	- I sort some **simple items** like plastic bottles
+	- I don't really **sort bags of mixed waste carefully**
+	- throw everything away together
 - Do you often see rubbish on the road?
+	- Not very often. Most streets around me are quite clean
+	- occasionally, I may see some plastic bottles or food packaging.
 - How is the recycling service in your community?
+	- I'm not really sure
+	- there are different bins for different types of rubbish
+	- I don't know exactly what happens after that
 - Did you learn about recycling when you were at school?
+	- Yes, but **only in a very basic way**
+	- We **were taught not to litter** and to put different types of rubbish into the right bins
+	- I don't remember learning much about the actual recycling process
 - Why do you think some people are not conscious of recycling?
+	- some people don't see the necessity of recycling
+	- They may **find it troublesome or too time-consuming** to sort different types of rubbish
 - Do you think there will be more rubbish in the future?
+	- Definitely. 
+	- Online shopping is becoming more and more popular, so there will probably be **more parcels**, **which means more boxes and plastic packaging**. As a result,** the amount of household waste** may increase in the future.
+- 垃圾分类 sort rubbish/waste
+- 把纸和塑料分开 separate paper and plastic
+- 把xx扔进正确的垃圾桶 put sth in the right bin
+- 回收垃圾桶 recycling bin
+- 混合垃圾 mixed waste
+- 生活垃圾/家庭垃圾 household waste
+- 塑料包装 plastic packaging
+- 可回收材料  recyclable materials
+- 收集垃圾 collect rubbish
+- 把垃圾运到回收中心 take rubbish to a recycling center
+- 利用垃圾发电 generate electricity from waste
+- 把某物扔掉 throw sth away
+- 捡起来 pick up
+- 直接走过去 walk past
+- 处理剩下的事情 take care of the rest
+- 有垃圾回收意识 be conscious of recycling
+- 耗时的 time-consuming
+- 觉得很麻烦 find sth troublesome
 
 ### 6. Tiredness（疲惫）
 

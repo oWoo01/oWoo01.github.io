@@ -1,7 +1,7 @@
 ---
 title: IELTS-Speaking Part 2 Question Bank
 category:
-date: 2026-09-15
+date: 2026-09-28
 ---
 * 讲例子
 	* For example
@@ -34,6 +34,8 @@ relationship → personality → specific example → impact on you → why you 
 	* 自律 self-disciplined
 	* 努力 hard-working
 	* 负责任 responsible
+	* competitive
+	* 
 
 ### 1. 帮别人提升健康（新题）
 
@@ -63,15 +65,55 @@ relationship → personality → specific example → impact on you → why you 
 - And explain why you think this person is popular → noticed I was upset / sent me a message → supportive / easy to get along with / made people feel valued
 -  It was only a small thing, but it meant a lot to me.
 
+* Why are some students popular in school?
+	* There are three main reasons.
+	* First, personality. Many popular students are easygoing and considerate, so people enjoy spending time with them.
+	* Second, some **do well academically**, and classmates **respect them** or **turn to them for help**.
+	* Third, **rightly or wrongly**, **appearance can give others a quick positive impression**. **That's not everything, but it can play a role**.
+* Is it important for a teacher to be popular?
+	* I don't think a teacher **has to** be popular, but it can be helpful.
+	* It is easier to **build rapport** and understand what they're struggling with, which can help the teacher **adjust methods** and **communicate more effectively**.
+	* However, **popularity shouldn't be the goal**. ... . They might become **too relaxed about discipline** or **lose some authority** in the classroom. So, **it's better to be** approachable and respected **rather than simply popular**.
+* Do you think good teachers are always popular among students?
+* Is it easier to become popular nowadays?
+* What are the qualities of being a good teacher?
+* Why do people want to be popular?
+* Why are some people less popular?
+* What are the consequences of being popular?
+* Do you want to become a popular person?
+
 ### 3. 钦佩的运动员（新题）
 
 > Describe a successful sportsperson you admire
 
-- Who he/she is
-- What you know about him/her
-- What he/she is like in real life
+- Who he/she is → jike zhang, a very successful table tennis player
+- What you know about him/her → I just don't know too much about table tennis, but I've known him for a few years now because he **played in big international competitions** like the Olympics. **One of his biggest achievements** was completing **the Grand Slam** in a very short time. That's an amazing achievement. I **really started following him** during the 2016 Rio Olympics. At that time, I was in my final year of junior high school and it was summer holiday. I remember getting up at 6 am in the morning just to watch the table tennis matches.
+- What he/she is like in real life → What impressed me most is that he handles pressure really well. He always looked very **confident and competitive** **in key moments**. 
 - What achievement he/she has made
-- And explain why you admire him/her
+- And explain why you admire him/her → Why I admire him is his **mental strength and determination**. I think **being an athlete requires years of hard training and self-discipline**. For me, he represents someone who can **stay focused and perform under enormous pressure**. So even though I'm not a big fan of table tennis, he left a strong impression on me.
+
+* What is the most popular sport in your country?
+	* Table tennis is almost like a national sport in China. **People of all ages play it**, in parks or outside their neighborhoods. And China **has been very strong** in this sport internationally for a long time, so it naturally became very popular.
+* How do international competitions like the Olympics influence people's interest in sports in your country?
+	* In China, people pay a lot attention to big events like the Olympics, Asian Games, and world championships. When Chinese athletes do well, those sports more attention.
+	* After watching an exciting match, some people become interested in the sport and even try it themselves. So, I think international competitions **definitely boost interest in sports**.
+* Should students have physical education and do sports at school?
+	* PE should be part of school.
+	* It gives students a break from lessons while also **building their physical strength**.
+	* Regular exercise helps students stay focused in class and **supports their overall mental and physical well-being**. So it is quite important.
+* What qualities should an athlete have?
+	* Athletes need to be hard-working. **Talent matters, but without years of effort, you can't really succeed.**
+	* They also need **resilience**. They should **adjust their mindset** quickly after a failure and **refocus on** the next match. That's **what separates top athletes from ordinary players**.
+* Is talent import in sports?
+	* **It can't be denied**, talent is important. **Talent sets the upper limit**, but effort decides whether you can actually reach that limit.
+* Is it easy to identify children's talents?
+	* Sometime it's easy to see. For example, some kids run much faster than others even when they're very young. But **in many cases**, talent needs **time and proper training to show up**. So it's not always obvious at first.
+* Why are there so few top athletes?
+	* It takes not only **exceptional talent**, but also **years of hard work**. Plus, they need **support, good coaches, resources, and the right opportunities**. Without **all of these coming together,** it's really hard to reach the top.
+* Should children learn many different sports?
+	* It can be good for children to **try different sports at first**, so they can **find what they really enjoy and suit their strengths**. Later they can **focus more on** one sport if they're interested and want to **develop further**. 
+* What can children learn from doing sports?
+	* Sports teach children that **progress takes time and persistence**. They need to practice hundreds of times before they see real progress. They also learn how to **cope with failure**, adjust their mindset, and refocus. These qualities will help them face challenges in real life, not just in sports.
 
 ### 4. 教你新技能的人（新题）
 

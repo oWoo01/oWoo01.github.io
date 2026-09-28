@@ -1,7 +1,7 @@
 ---
 title: IELTS-Notes-Writing (Task2)
 category: IELTS
-date: 2026-09-11
+date: 2026-09-23
 ---
 ⚠️语法语法语法，名词复数！动词第三人称单数！
 
@@ -14,6 +14,8 @@ date: 2026-09-11
 ⚠️自己的观点要明确
 
 ⚠️先把意思变简单，再翻译！不要搞中文复杂句->英文复杂句，70%熟句 + 30%自由表达
+
+⚠️little/less/least修饰不可数！！！few修饰可数
 ## Advantages & Disadvantages & Agree & Disagree
 
 * ### 框架
@@ -34,12 +36,12 @@ date: 2026-09-11
 		* One important reason is that ... .
 		* In addition, ...
 		* Therefore, ...
-	* My opinion
+	* My opinion(前面陈述双方观点+好处，这里就到了disadvantage)
 		* In my view, ...
 		* Although ..., this does not necessarily mean that ... .
 		* Admittedly, ... .
 		* More importantly, ...
-	* Conclusion
+	* Conclusion(具体，解决方案)
 		* In conclusion/summary, although ..., I believe that ... .
 
 * ### 句型积累
@@ -51,16 +53,15 @@ date: 2026-09-11
 	* A does X, whereas B does Y. Therefore...
 
 * ### 用词积累
-	* 
+	* 反对 oppose 没有to
+	* 支持 support doing sth / favour / in favour of
 	* 重大的/明显的 substantial / significant / evident
 	* 就...而言 when it comes to / in terms of  / regarding ...  
 	* 缺点 disadvantage / drawback
 	* 促进 facilitate
 	* 方式 approach / measure
-	* 未来可能 
 	* ...的基石 cornerstone of
 	* 必要性 necessity
-	* 支持 support doing sth
 	* 不可或缺的 be indispensable for
 	* 举例 everything from A to B
 	* 转折
@@ -79,6 +80,7 @@ date: 2026-09-11
 		* 需要 need --> require 
 		* 使得/导致 cause --> make it xxx / encourage
 		* 和 and --> as well as
+		* 越来越多 more and more --> a growing number of 
 	* 副词
 		* particularly 
 	* 原因
@@ -87,7 +89,7 @@ date: 2026-09-11
 		* 引发 give rise to
 		* 源于 stem from
 		* 由...推动 be driven by
-		* 导致 lead to / result in / cause / make it xxx 
+		* 导致 lead to / result in / cause / make it xxx / thereby doing
 	* 结果(不要写得太绝对, will🙅)
 		* X can help reduce ...
 		* X may contribute to
@@ -306,6 +308,23 @@ date: 2026-09-11
 		* 沉浸式体验 immersive experience
 		* 文化意义 cultural significance
 		* 共同文化价值 common cultural values
+		* 追溯建筑历史 trace the history of a building
+		* 查阅历史记录 consult historical records
+		* 查询地方档案 search local archives
+		* 保存地方历史 preserve local history
+		* 建立归属感 develop a sense of belonging
+		* 口述历史 oral history
+		* 当地佚事 local anecdote
+		* 知名人物 notable figures
+		* 历史建筑 historic property
+		* 遵循当地习俗 follow local customs
+		* 遵守当地礼仪 observe local etiquette
+		* 收到更热情的欢迎 receive a warmer welcome
+		* 包容文化差异 show tolerance towards cultural differences
+		* 促进相互尊重与文化交流 promote mutual respect and cultural exchange
+		* 了解 gain insight of
+		* 旅途变得更愉快和印象深刻 the journey may become more enjoyable and memorable
+		* 跨文化交流 cross-culture interaction (smoother and more harmonious)
 		* 文化机构对社会的贡献很难用财政衡量 Cultural institutions contribute to society in ways that cannot always be measured in financial terms
 		* Traditional practices help younger generations maintain a connection with their cultural heritage.
 		* 尽管文化在自然而然中进化，但保存重要的传统文化可以加强文化认同感和归属感 Although cultures naturally evolve, preserving important traditions can strengthen a sense of identity and belonging.
@@ -418,6 +437,35 @@ date: 2026-09-11
 		* 帮助罪犯重新融入社会 reintegrate offenders into society
 		* 暴力犯罪 violent crime
 		*  刑事司法体系 criminal justice system
+		* 决定刑罚 determine the sentence
+		* 施加刑罚 impose a/severe punishment
+		* 对应固定刑罚 carry a fixed penalty
+		* 考虑减轻情节 take mitigating circumstances into account
+		* 加重情节 aggravating circumstances
+		* 实施司法裁量权 exercise judical discretion
+		* 法官 judge
+		* 与罪行相称的刑罚 proportionate punishment
+		* 故意犯罪 commit a deliberate offence
+		* 维持公众对司法体系的信任 maintain public confidence in the justice system
+		* 维护法治 uphold the rule of law
+		* 确保量刑一致 ensure consistency in sentencing
+		* 促进公平 promote fairness
+		* 犯罪意图 criminal intent
+		* 有预谋的犯罪 premeditated offence
+		* 罪犯 criminal / offender / law-breaker
+		* 犯法 disobey / break / violate the law, commit a crime
+		* 无辜的人被冤枉 innocent people could be wrongly convicted
+		* 危害社会 endanger/harm/pose a threat to society
+		* 扰乱公共秩序 disrupt public order
+		* 道德价值观 moral values
+		* 和谐社会 a harmonious/stable/sound society
+		* 悔过 show a willingness to repent 
+		* 受害者 victim
+		* 再犯罪率 re-offending rate
+		* 改造 rehabilitation
+		* 监狱旨在改造，而非惩罚 prison should aim to reform, not just punishment
+		* 青少年罪犯 juvenile offender
+		* 
 	* 广告/消费主义
 		* 影响消费行为 influence consumer behavior
 		* 鼓励消费 encourage consumption
@@ -598,6 +646,34 @@ However, despite the easy accessibility of online content, theatres and cinemas 
 
 All in all, online and offline forms of entertainment both benefit people a lot. Online media make it possible to enjoy private time and space, whereas theatres and cinemas are still indispensable for those who prefer ~~physical~~**in-person cultural** experience in the digital age. 
 
+### 7.
+It is often debated whether punishments for each type of crime should be fixed or not. Those who oppose ~~to~~ this view argue that circumstances **surrounding an offence** and **the offender's** motivations ~~of an individual crime~~ should be taken into account when deciding on the sanction. While both views have some merit, I agree that punishments should be decided ~~specifically according to the details of a crime~~**on a case-by-case basis**.
+
+The main reason ~~why some people support~~**in favor of** fixed punishments is ~~the consistent procedure and less room for negotiation~~**that they can ensure greater consistency in sentencing and leave less room for subjective judgment**. Consistent punishments for each type of crime standardize and simplify the procedure. As a result, there will be ~~less~~**fewer** ~~doubts~~**disputes** about the punishments, then reducing the subsequent arguments and quarrels.
+**pro version:** a fixed sentencing framework, standardize and simplify judical decision-making, fewer disputes, less controversy
+
+Despite these advantages, fixed punishments ~~no matter what~~**regardless of** the concrete background ~~is~~ may bring about many issues. It may cause the punishment not ~~tally with~~**fit to** the crime ~~fact~~. For example,  murder and manslaughter ~~belong to the same type of crime~~**both involve the unlawful killing of another person**, but their motivation**s** differ~~s~~ a lot. It is unfair for those who commit **a** crime by accident or out of defending themselves to be punished the same as ~~cunning people~~**deliberate offenders**. 
+**pro version:** the sentence may be disproportionate to the seriousness of the offence
+
+In my view, it is necessary to take the detailed circumstances and motivation into account when deciding on the punishment. ~~This can not only manifest the humanitarian basis of law, but also uphold the majesty of law.~~**This approach can promote fairness and proportionality while maintaining public confidence in the justice system.** Fixed punishments may result in more criminals who ~~take advantage of this in order to reduce their duration in prison~~**may exploit loopholes in a rigid sentencing system**.
+**pro version:** I believe judges should retain a degree of discretion. Clear sentencing guidelines are useful for ensuring consistency, but they should serve as a framework rather than an inflexible set of rules.
+
+In conclusion, I believe that society ~~is~~**can** benefit from flexible punishments. Thus, ~~they are indispensable and irreplaceable~~**judical discretion is essential for ensuring fair and proportionate punishment.
+
+### 8.旅游/文化
+It is often argued that visitors to other countries should follow local customs and behavior, whereas others think that the host country should welcome cultural differences. I believe that these views do not contradict each other. **Rather,** They ~~are just from different standpoints~~**simply approach the issue from different perspectives and can complement each other**~~, which are both reasonable and beneficial for tourists and host countries~~.
+
+From visitors' point of view, ~~it~~**learning about local custom and traditions** is not only ~~a friendly behavior~~**a sign of respect** ~~to show your respect to local culture by learning their customs and folk traditions~~, but also ~~a nice beginning to get a glimpse into this country~~**a good way to gain insight into the local culture**. Customs and traditions could ~~bind~~**bring** people together regardless **of** nationalities ~~and~~**or** languages. If you follow a local custom, such as wearing their local clothes, you might get close~~d~~**r** to local people more quickly and ~~be welcomed more enthusiastically~~**receive a warmer welcome**. As a result, your journey may be more ~~colorful and impressive~~**enjoyable and memorable**.
+**pro version:** By observing local customs, such as appropriate dress codes or dining etiquette, visitors may find it easier to connect with local people and receive a warmer welcome.
+
+From ~~hosts' point of view~~**the perspective of the host society**, it is **equally** essential to respect cultural differences and show tolerance ~~of~~**towards** different habits. Local atmosphere is a main attraction ~~to~~**for** foreigners besides beautiful natural landscapes and ~~active economy~~**dynamic urban economy**. Thus, developing tourism industry needs an open and tolerant attitude towards different cultures, which will lead to positive feedback on local tourism. 
+
+From my point of view, both perspectives stem from a desire to respect each other's cultures. Thus, as long as we ~~keep~~**remain** respectful toward each other, ~~the cultural conversation~~**cross-culture interaction** would be ~~more fluent and warmer~~**smoother and more harmonious**. ~~For example, people do not eat meat in some ~~Islam~~**Muslim-majority** countries. If we visit there, we should follow this habit and not ask the local restaurant to provide meat. On the other side, people in these countries should allow visitors to eat meat which is carried here.~~**For example, visitors should follow local dress codes when entering religious sites. However, host societies should not expect tourists to adopt the same style of dress in every aspect of daily life.** 
+
+All in all, respect is mutual. Both visitors and host countries should take each other into consideration. ~~Then, **the** world with different cultures will be more colorful~~.**This mutual accommodation can make cross-cultural interaction more respectful and enriching**.
+
+(Adaptation 适应 should not require complete assimilation 同化)
+
 
 ## Problems & Solutions
 ### 框架
@@ -623,3 +699,11 @@ So, **what can be done now to prevent these problems**? Firstly, I believe that 
 * 语法
 	* fewer people will be working 描述将来一段时间持续的事件
 
+### 2.文化
+In recent years, ~~there is a trend around the world to find out about the history of the house or the building people live in~~**a growing number of people have become interested in learning about the history of the homes or buildings in which they live.** This trend reflects ~~the increasing of~~**an increase in** ~~public cultural consciousness~~**local history and cultural heritage**. ~~In the following, we will analyse the reasons of this circumstance and the approaches people may employ to collect information.  ~~**There are several reasons for this growing interest, and people can investigate a property's past in a number of practical ways**
+
+The main reason might be the curio~~u~~sity about the story related to the living place. Houses and buildings link the past with the present. People can get a glimpse into lives in the past through these physical "heritages". Furthermore, ~~people may seek cultural identity or belonging via knowing more about their surroundings~~**learning about the history of their surroundings may strengthen people's sense of cultural identity and belonging.** For example, if the house you ~~stay every day~~**live in** ~~used to be contained in~~**was once part of** a royal garden, you ~~will be~~**may feel** ~~proud of it and this house will have a special meaning for you~~**a stronger sense of pride and personal connection to the property**. Meanwhile, ~~knowing about the stories~~**such knowledge** ~~has advantage in~~**can also help preserve local history and** pass~~ing~~ history and culture on to future generations.  
+
+Regarding how people research this, there might be three effective approaches. Firstly and conveniently, people can search **for relevant** keywords online to check out whether ~~there were~~ **any notable people once** ~~celebritie~~s lived here or whether any ~~big events~~**significant historical events** ~~happened here~~**took place at the site**. Besides, it is helpful to ~~look up documents or histories in local cultural department and library~~**consult historical records, maps and property documents held by local libraries, archives or cultural institutions.** Beyond official approaches, people can ~~inquire the elderly about anecdotes spreading among the folk~~**speak to elderly or long-term local residents, who may be able to share oral histories and local anecdotes that are not recorded elsewhere.  
+
+All in all, this ~~spontaneous research~~**growing interest reflects a stronger desire to understand local history and cultural heritage** ~~is a signal that people are becoming more and more interested in cultural features around them. It is a good opportunity for gevernment to explore local culture and tourism potential.~~

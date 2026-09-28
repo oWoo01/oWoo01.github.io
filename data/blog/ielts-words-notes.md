@@ -542,6 +542,9 @@ date: 2026-09-14
 * rectify & testify
 	* rectify: vt. 纠正 rectify a situation
 	* testify: vi. 作证，指认 testify against sb / to sth
+* conjunction & injunction
+	* conjunction: 结合，与...共同 in conjunction with
+	* injunction: 禁制令，警告，命令
 
 * **
 ### Countable noun

@@ -1,7 +1,7 @@
 ---
 title: IELTS-Notes-Writing (Task1)
 category: IELTS
-date: 2026-09-11
+date: 2026-09-22
 ---
 技巧：
 * 利用题目里给的单词，比如consume我就不会自己写
@@ -43,8 +43,13 @@ date: 2026-09-11
 * 占比
 	* 占比多少 account for / represent / make up + 具体占比
 	* 占比相近 be all around ...
+	* 各占8% each account for 8%
+	* 占比最小 accounted for the smallest proportion
+	* 分布更均匀 was more evenly distributed / became more balanced
+	* 变成之前的一半 fall to around half of its previous/1968 level
 	* 并列 jointly account for the (second-)largest(smallest) share / **were tied for** second place / 
 	* 比例 (high/low) proportion(s) / share /  + stand at 
+	* 很低 considerably lower
 	* 最... 
 		* account for the **smallest** share
 		* make up the largest proportion of ...
@@ -143,6 +148,7 @@ date: 2026-09-11
 		* 作为 serve as
 		* 被指定为 be designated as
 		* 被化作 be allocated for
+		* 设施 facility
 	* 土地用途land use
 		* 开放空间 open space
 		* 绿地 green space
@@ -159,11 +165,15 @@ date: 2026-09-11
 			* 经历重新开发 experience redevelopment
 			* 变得更现代/宽敞 become more modern/spacious
 			* 布局更合理 become better organized
+		* 重新设计布局 redesign the layout
+		* 重新规划室内空间 reorganise the interior
+		* 保留原入口 retain the original entrance
 		* 建造 build
 		* 设有 feature
-		* 建造 build
+		* 建造 build/construct/create
 		* 建设 construct
-		* 新增 add
+		* 新增新设施 add new facility
+		* 安装/增设xx install xx
 		* 引入 introduce
 		* 扩大 expand / enlarge
 		* 延伸，扩建 extend
@@ -174,6 +184,11 @@ date: 2026-09-11
 		* 拆除 demolish / knock down 
 		* 移除 remove
 		* 改建 convert
+		* **The former A was replaced by / converted into B.**  
+		* **A remained unchanged.**  
+		* **B was added.**  
+		* ***A was converted into B.**
+		* 或者用现在完成时
 	* 位置
 		* 在顶/底部 at the top/bottom of map
 		* 在左/右侧 on the left/right-hand side of
@@ -195,6 +210,7 @@ date: 2026-09-11
 		* 在...后面 behind
 		* 在...前面 in front of
 		* 在...中间 in the center of
+		* 沿着墙 along the left-hand wall
 	* 路线动作
 		* 直走 go straight
 		* 在正前方 X is straight ahead
@@ -308,3 +324,16 @@ At the beginning, ~~sea~~ winds from the sea approach **the** coast. ~~Facing~~*
 ~~Over~~**After crossing the** mountain **/Once the air passes over the mountain**, dry air ~~begins to go down~~**descends** along the leeward side of mountains. ~~During this thousand-kilometer downhill journey, there is almost no supplement to moist air.~~ ~~When reaching inland areas finally, there are still only dry winds~~**The dry winds then continue towards inland areas**. ~~Moist air cannot manage to be transmitted to inland areas  and rainfall here is always extremely low.~~**Because most of the moisture has already been lost on the windward side, very little rainfall reaches the inland area.** ~~After a few years~~**As a result**, a rain-shadow desert forms.
 **pro version:** Initially, winds from the sea approach the coast and are forced upwards when they **encounter** the windward **slope** of the mountains. As the moist air rises, it cools, causing clouds to form at higher altitudes. Continued uplift eventually results in rainfall near the mountain peak, removing a substantial proportion of the moisture from the air.
 The remaining dry air them moves over the mountain range and descends along the leeward slope. It continues towards the inland area without regaining significant moisture. Consequently, **very little rainfal**l reaches this region. These persistently dry conditions give rise to a rain-shadow desert on the inland side of the mountains.
+
+### 7.地图
+The plans show the layout of a college cafe before it was redesigned and how it looks now. 
+
+Overall, this cafe ~~expands space~~**now includes an outdoor space** and upgrades menu, adding salad, coffee and barbecue after redesigning. Meanwhile, it develops takeaway service and recycling function.
+**pro version:** Overall, the cafe has been redesigned to **provide a wilder range of facilities for customers**. **The former staff dining rooms** have **been replaced by** takeaway and coffee facilities, while an outdoor seating area, a barbecue section and a salad bar have also been added. By contrast, the kitchen and toilets **remain largely unchanged**.
+
+Indoor space becomes more organized according to functions. 
+~~In indoor space~~**Inside the cafe**, **the** original door ~~is~~ ~~in~~**on** the top-right corner ~~of this plan~~**has been retained**. ~~In the opposite of the original door, there are two rooms for take away food and coffee bar, respectively, where staff dining rooms once were~~**The two former staff dining rooms have been replaced by a takeaway food area and a coffee bar.**. Bins and toilets remain on the left side of the door, while bins ~~now upgrade into~~**has been replaced by** recycling bins. Most ~~space of indoor space~~**of the central floor area continues to be** ~~is~~ occupied by tables and chairs. ~~Crossing the central space, a salad bar is introduced on the left side of the plan~~**A new salad bar has been installed along the left-hand wall**.  ~~A preparing room is next to the salad bar, on the top of the map, containing kitchen and serving area for hot meals which used to serve all food and drink. ~~**The kitchen in the upper-left part of the cafe remains in the same position, while the former serving area for all food and drink is now used specifically for hot meals.
+
+Besides, **an** outdoor space of this cafe ~~is introduced~~**has been created**. A barbecue ~~site~~**area** ~~is constructed~~**has been added at the western end** **together with** ~~and~~ several **sets of** outdoor tables and chairs ~~are added~~. For convenience,  there ~~are~~**is** one more exit as well as one more entrance added between indoor and outdoor regions. 
+**pro version:** **A major new feature** is the outdoor seating area added along the southern side of the cafe.
+Two additional doorways have been added along the southern wall to provide access to the outdoor area.
