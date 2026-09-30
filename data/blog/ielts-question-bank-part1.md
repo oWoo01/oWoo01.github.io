@@ -1,7 +1,7 @@
 ---
 title: IELTS-Speaking Part 1 Question Bank
 category:
-date: 2026-09-15
+date: 2026-09-30
 ---
 * 习惯类
 	* Usually, I ... . + reason/detail
@@ -262,55 +262,109 @@ date: 2026-09-15
 ### 6. Tiredness（疲惫）
 
 - Do you often feel tired?
+	- quite often
+	- spend most of my day in the lab
 - When would you feel tired?
+	- after a whole day of work
+	- By then, **I've been focusing for hours**
 - What do you do when you feel tired?
+	-** lie in bed** and **scroll on my phone**
+	- hang out with my friends to relax and **take my mind off work**
+	- on weekdays / on the weekends
 - What usually makes you feel tired?
+	- constant mental focus / spending hours on high concentration tasks is mentally exhausting
+	- concentration in front of screen
+	- running long simulations and meeting tight deadlines **is really tiring**
+	- stare at the screen
 - Do you think you get enough rest?
+	- **feel refreshed the next day** 
+	- under pressure, **wake up still tired**
+	- if + present + present
 
 ### 7. Fruit and vegetables（蔬菜水果）
 
 - How often do you eat fruit and vegetables?
+	- vegetable, healthy and important for my diet
+	- some fruit is high in sugar
 - Where do you usually buy fruit and vegetables?
+	- eat meals at the campus canteen
+	- for fruit, I sometimes go to **a small grocery store** or buy them from **street vendors**
 - What kind of fruits and vegetables do you dislike?
-- Were there any kind of fruits and vegetables you disliked as a child?
+	- need to be peeled. For example, I don't mind bananas, but not ones that I have to cut and peel, like apples. 
+	- For vegetables, **I'm not picky.**
 - Did you dislike eating any vegetables when you were little?
+	- green beans, I hate to eat beans. I have to pick them out first, otherwise mixing them with other food felt odd.
 - Do people often grow vegetables by themselves?
+	- My grandparents grow vegetables, so we just get them from their garden instead of buying them at the market
 - Where do people usually buy vegetables?
+	- at supermarket or from street vendors, or small grocery stores
 
 ### 8. Secondary school（中学）
 
 - Do you remember your first day at secondary school?
+	- only have a vague memory of that day
+	- I guess I felt a bit anxious, like I was **facing a totally new environment**
 - Were there any subjects that you found difficult at secondary school?
+	- At the start of secondary school, I found math was harder than in primary school.
+	- **got really frustrated** with trigonometric functions
+	- ended up asking my teacher for 121 help, finally got it
 - What was your favourite subject at secondary school?
+	- really enjoy analysing forces on objects
+	- solving tough problems gave me **a real sense of achievement**
 - Is there anything you miss about your secondary school?
+	- quick feedback
+	- Back then, I'd finish my homework, solve a problem, and **know pretty fast if I was right**.
+	- it takes a long time to **test and validate my thoughts**.
 - Did you like your secondary school life?
+	- What I like most about secondary school is **the simplicity**. Most days, I just studied, did homework, and got quick feedback. **There was a clear routine**.
+	- take care of myself and **think seriously about the future**, **everything is repetitive and uncertain**.
 - Would you recommend your secondary school to others? Why?
+	- one of the best teaching standards in my town
+	- **what I valued most was the supportive atmosphere**
+	- the management was quite people-oriented, and students had room to explore their interests and be themselves.
 - Did you ask others for help when you had difficulty with your lessons?
+	- compare ideas and try to figure it out together.
+	- If we still **got stuck**, we'd ask the teacher
 - What kind of teachers did you like most in secondary school?
+	- who were **strong at teaching** and also approachable. They explained things clearly and knew where students might **get stuck**. and they were easy to talk to when I needed help, whether it was classwork or something personal.
 
 ### 9. Paper（纸质信件与纸艺）
 
 - Have you made any crafts with paper?
+	- **Honestly, I don't really do paper crafts that often. I might have tried something a long time ago, but it's not really my thing.**
 - Do you still write physical letters?
+	- I think it has been about three years since I last wrote a physical letter. It was when i went to Korea and saw my idol, so I wrote him a letter and asked his sister to pass it on.
 - Do people still keep handwritten letters today?
+	- yeah, people still keep them, but **more for sentimental reasons than for communication**
+	- Handwritten letters feel **personal**, and they **express emotions that are hard to put into quick texts**.
 - Do you carry paper and pens with you when you go out?
+	- Most of the time I don't need them, and **if sth comes up**, there's usually a pen **available**.
 - What did you like to do with paper as a child?
-- Do you often write letters?
+	- fold paper into animals like rabbits and frogs
+	- show them to my friends and we would **swap what we made**
 - Did you receive any handwritten letters when you were a child?
+	- my friends and I were in different classes, so we wrote letters to share our daily lives. On birthdays, we sometimes **slipped a letter in with gifts**.
 - Do you prefer writing letters by hand or sending messages?
+	- When I really **express sth deep or meaningful**
+	- **sharing little updates**
 - When do you usually write things on paper?
-- Do you like writing letters by hand?
-- Do you recycle paper?
+	- keep a diary, **write things down** when sth feels worth remembering
+	- It helps me **sort out my thoughts** and keep memories in one place
 
 ### 10. Lost and found（失物招领）
 
 - What will you do if you find something lost by others?
+	- I would first **check for information** that could help me find the **owner**, like an ID in a wallet or contacts on a phone. If that doesn't work, I'd **head to** the police or **on-site staff** like security or a help desk for help.
 - Do you report to the police when finding something lost by others? Why?
+	- I **see the police as the last step**. I'd first **hand it to** on-site staff because it **saves time** and the staff are **easier to reach**, and the owner will probably check them first.
 - Have you ever lost things?
+	- I've lost my **shower card** a few times at university. We use **shared bathrooms**, and sometimes I forget to **take it with me**. Fortunately, I can always **find it in the same spot**.
 - Will you post on social media if you lose your item?
-- Have you ever lost your keys?
+	- If I'm **on campus**
+	- posting probably won't help much
 - Are you usually careful with your belongings?
-
+	- it is harder to **recover stuff overseas**.
+	- When travelling, I double check my bag before I leave any place to make sure I haven't left anything behind.
 ### 11. Street market（街头市场）
 
 - What do people usually buy on the street market?

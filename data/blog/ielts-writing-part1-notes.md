@@ -259,6 +259,7 @@ In 2018, the pattern was somewhat different and the proportions of all ~~catoger
 
 ### 2. 折线图: 社会
 
+#### ①
 The line graph **compares** the number of jobs in four sectors of the US economy-**manufacturing, retail, agriculture and healthcare**-**over the 60-year period** from 1960 to 2020.
 
 Employment in retail and healthcare increased substantially throughout the period. Retail jobs rose steadily from approximately 6 million in 1960 to 10 million in 1980 and 15 million in 2000, before reaching around 16 million in 2020. Healthcare **experienced even stronger growth**, with employment climbing from only 2 million to about 5 million between 1960 and 1980, and then rising sharply to 11 million in 2000 and roughly 16 million by the end of the period. (**详细点出数据**)
@@ -266,6 +267,16 @@ Employment in retail and healthcare increased substantially throughout the perio
 By contrast, agriculture and manufacturing followed downward trends overall. Agricultural employment fell from about 6 million in 1960 to 3 million in 1980, remained stable until 2000, and then **declined further** to approximately 2 million. Manufacturing initially rose from 15 million to a peak of 20 million in 1980, before decreasing to 17 million in 2000 and around 13 million in 2020.
 
 Overall, retail and healthcare became the largest employers by 2020, whereas agriculture had ==by far== the fewest jobs. Manufacturing was the only sector to rise initially before undergoing a sustained decline.
+
+#### ②
+The line chart provides information about the average monthly change in the prices of copper, nickel and zinc in 2014. 
+
+Overall, the changes ~~of~~**in** prices of nickel and zinc follow**ed** a similar trend which ~~were~~**was** positive before June, then fell to negative values until October, finally returned to positive values ~~after~~**in** November **and December** in 2014. ~~What is different in copper~~**By contrast**,  ~~is that its price remained increasing through the whole year except in May and June. ~~**copper showed much smaller fluctuations and recorded positive monthly changes in every month except May and June.
+pro version:** Nickel experienced by far the greatest fluctuations, whereas copper was the most stable of the three metals and recorded positive monthly changes in most months
+
+In January, the price**s** of nickel and zinc increased/rose by 6% and 1% , respectively, compared with the previous month. In February, ~~the growing extent of zinc was largest among 2014 at 3% whereas that of nickel fell to 4%~~**zinc recorded its largest monthly increase of the year, at 3%, while the corresponding figure for nickel fell to 4%. Nickel then fell sharply, reaching -3% in June, the lowest figure shown on the chart.** ~~The price of these two metals~~ ~~turned to decrease~~**Both figures fell below zero** after June, with the change remaining at -1% and -0.5% from July to September. Finally, ~~their price~~**both** returned to ~~increase~~**positive growth** in November. 
+
+Regarding copper, the largest **monthly** increase occurred in January at 2%. ~~After that, the increasing extent became smaller, following the price of copper 0.5% less than previous month in May and June.~~**The rate of increase then gradually declined to 0.5% in March and April. The figure fell to -0.5% in May and remained at this level in June.** ~~In the latter half of 2014~~**From July onwards, copper was relatively stable, remaining between 0.5% and 1.5%**~~, the change of copper price remained around 1%~~.
 
 ### 3. 饼图: 健康
 The pie charts show average percentages of three types of nutrients~~,  ~~—sodium, saturated fat~~s~~ and added sugar~~s~~—**contained** in four typical meals ~~breakfast, lunch, dinner and snacks~~ consumed in the USA.

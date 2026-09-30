@@ -120,18 +120,64 @@ relationship → personality → specific example → impact on you → why you 
 > Describe a person who taught you a new skill
 
 - Who this person was
-- What the skill was
-- How you learned it
-- And explain how you feel about this person
+- What the skill was → met at my university pool
+- How you learned it → She first **broke things down step by step**: breathing rhythm first, then leg kicks while holding the wall, and finally combining arms and breathing. She'd demonstrate once, let my try, and then point out one or two small things to adjust. At first, I felt tense and even swallowed a few mouthfuls of water. But she never got impatient. corrected my movements patiently and showed me how to fix them. After two weeks I could **swim on my own**
+- And explain how you feel about this person → she never got annoyed when I **didn't get the technique**, I felt grateful and more confident thanks to her
+
+* Why should children learn new skills?
+	* It helps them **build confidence** and **adapt to new situations**.
+	* For example, learn instruments, **practice patience** and **time management**
+	* join a sports team, **cooperate** and **handle setbacks**
+	* **shape their character**, not just their abilities
+* Where can children learn new skills?
+	* at school: academic skills, time management, teamwork
+	* at home: practical skills, cooking, cleaning, sweeping the floor
+* How can parents and teachers teach children new skills?
+	* demonstrate first, let them try, then point out things to adjust
+	* giving feedback with patience
+	* break things down step by step
+* How do adults learn a new skill?
+	* online courses, **self-practice**, find a coach or structured program
+	* more resources and stronger learning ability, have more options
+* What are the differences between learning from a teacher and learning by oneself?
+	* teachers **highlight the key points** and give structure, which makes the process smoother and more efficient
+	* Studying by my own can sometimes feel confusing.
+* why is self-discipline important when learning a new skill?
+	* it **always takes effort to acquire it**
+	* **without steady practice, progress stalls**.
+	* practice regularly, stick with it
+* What skills should children learn before they start school?
+	* **basic self-care**(dressing themselves, eating on their own, keeping things tidy) and **social skills** (take turns, sharing, following basic instructions)
+	* help them adjust more easily and be more independently
+	* help classes run smoothly
+* Will children who do not have these skills be disadvantaged at school?
+	* they might **struggle more at first**
+	* spend extra time on catching up on ...
+* Can children learn new skills from other children?
+	* Imitation is instinctive for children
+* What are the advantages and disadvantages of kids learning skills from other kids?
+	* **On the positive side**, kids are often **at a similar level**. share tips, swap experiences and practice together, speed up learning and make it more fun
+	* **On the downside**, children might not always tell right from wrong. copy bad habits
 
 ### 5. 学习并喜欢历史的人（新题）
 
 > Describe a person who learns history and loves history
 
-- Who this person is
-- How he/she learns history
-- Why he/she loves history
-- And explain how you feel about him/her
+- Who this person is -> who **is really into history, especially modern history**, in the same **student Party branch**, so we sometime studied together. I remember that **during one session**, he gave a short presentation about the Korean War. What impressed me most was not only **the facts he knew**, but also **his own interpretation**. He **explained the background, different events and even shared his own views, which felt very thoughtful**.
+- How he/she learns history -> reading books, watching documentaries, and **following online lectures**. What makes him special is that he **connects the dots**. He asks why things happened and what impact they had. 
+- Why he/she loves history -> help him **understand the present world**
+- And explain how you feel about him/her -> really admire him because he is **well-read** and **has an analytical mind**. He often offers an interesting **perspective I haven't considered**. Talking with him makes me want to learn more history myself.
+
+* Do you think children should begin learning history from an early age?
+* At what age do you think people should begin to learn history?
+* How do children learn history before they attend school?
+* Is it important to learn how people in the past lived their lives?
+* Do you think people should learn about ancient history before learning modern history?
+* Besides big historical events, what else is important when learning history?
+* What are the benefits of learning history?
+* Should history be a required subject at school?
+* Do people know more about ancient history or modern history?
+* Would foreigners travel to China because of Chinese history?
 
 ### 6. 尊敬的比你年长的人（新题）
 
